@@ -1,0 +1,1499 @@
+format=1 tracks=8 division=480
+
+DT       1/2   (BA    1   CR       1/2)   TR  1   CH  1   NT  A'      on   von=60
+DT       1/2   (BA    1   CR       1/2)   TR  2   CH  1   NT  A-      on   von=48
+DT       1/2   (BA    1   CR         1)   TR  1   CH  1   NT  A'      off
+DT         0   (BA    1   CR         1)   TR  1   CH  1   NT  E''     on   von=66
+DT    53/120   (BA    1   CR         1)   TR  2   CH  1   NT  A-      off
+DT         0   (BA    1   CR         1)   TR  2   CH  1   NT  E       on   von=52
+
+DT     3+1/4   (BA    2   CR     1+1/4)   TR  1   CH  1   NT  E''     off
+DT         0   (BA    2   CR     1+1/4)   TR  1   CH  1   NT  D''     on   von=55
+DT     3+1/4   (BA    2   CR     1+1/4)   TR  2   CH  1   NT  E       off
+DT         0   (BA    2   CR     1+1/4)   TR  2   CH  1   NT  D       on   von=42
+DT       1/8   (BA    2   CR     1+3/8)   TR  1   CH  1   NT  D''     off
+DT         0   (BA    2   CR     1+3/8)   TR  1   CH  1   NT  E''     on   von=47
+DT       1/8   (BA    2   CR     1+3/8)   TR  2   CH  1   NT  D       off
+DT         0   (BA    2   CR     1+3/8)   TR  2   CH  1   NT  E       on
+DT       1/8   (BA    2   CR     1+1/2)   TR  1   CH  1   NT  E''     off
+DT         0   (BA    2   CR     1+1/2)   TR  1   CH  1   NT  D''     on   von=62
+DT       1/8   (BA    2   CR     1+1/2)   TR  2   CH  1   NT  E       off
+DT         0   (BA    2   CR     1+1/2)   TR  2   CH  1   NT  D       on   von=49
+DT     7/480   (BA    2   CR 1+247/480)   TR  2   CH  1   ST &B0 &40 &00
+DT       1/2   (BA    2   CR         2)   TR  1   CH  1   NT  D''     off
+DT         0   (BA    2   CR         2)   TR  1   CH  1   NT  C''     on   von=57
+DT   233/480   (BA    2   CR         2)   TR  2   CH  1   NT  D       off
+DT         0   (BA    2   CR         2)   TR  2   CH  1   NT  C       on   von=45
+DT    37/240   (BA    2   CR  2+37/240)   TR  2   CH  1   ST &B0 &40 &7F
+DT       1/2   (BA    2   CR     2+1/2)   TR  1   CH  1   NT  C''     off
+DT         0   (BA    2   CR     2+1/2)   TR  1   CH  1   NT  D''     on
+DT    83/240   (BA    2   CR     2+1/2)   TR  2   CH  1   NT  C       off
+DT         0   (BA    2   CR     2+1/2)   TR  2   CH  1   NT  D       on
+
+DT       1/2   (BA    3   CR         0)   TR  1   CH  1   NT  D''     off
+DT         0   (BA    3   CR         0)   TR  1   CH  1   NT  E''     on   von=62
+DT       1/2   (BA    3   CR         0)   TR  2   CH  1   NT  D       off
+DT         0   (BA    3   CR         0)   TR  2   CH  1   ST &B0 &40 &00
+DT         0   (BA    3   CR         0)   TR  2   CH  1   NT  E       on   von=49
+DT    71/480   (BA    3   CR    71/480)   TR  2   CH  1   ST &B0 &40 &7F
+DT       1/2   (BA    3   CR       1/2)   TR  1   CH  1   NT  E''     off
+DT         0   (BA    3   CR       1/2)   TR  1   CH  1   NT  F''     on   von=64
+DT   169/480   (BA    3   CR       1/2)   TR  2   CH  1   NT  E       off
+DT         0   (BA    3   CR       1/2)   TR  2   CH  1   NT  F       on   von=51
+DT       1/2   (BA    3   CR         1)   TR  1   CH  1   NT  F''     off
+DT         0   (BA    3   CR         1)   TR  1   CH  1   NT  G''     on   von=67
+DT       1/2   (BA    3   CR         1)   TR  2   CH  1   NT  F       off
+DT         0   (BA    3   CR         1)   TR  2   CH  1   NT  G       on   von=53
+DT      1/30   (BA    3   CR    1+1/30)   TR  2   CH  1   ST &B0 &40 &00
+DT      3/16   (BA    3   CR  1+53/240)   TR  2   CH  1   ST &B0 &40 &7F
+DT       1/2   (BA    3   CR     1+1/2)   TR  1   CH  1   NT  G''     off
+DT         0   (BA    3   CR     1+1/2)   TR  1   CH  1   NT  E''     on   von=66
+DT    67/240   (BA    3   CR     1+1/2)   TR  2   CH  1   NT  G       off
+DT         0   (BA    3   CR     1+1/2)   TR  2   CH  1   NT  E       on   von=52
+DT       1/2   (BA    3   CR         2)   TR  1   CH  1   NT  E''     off
+DT         0   (BA    3   CR         2)   TR  1   CH  1   NT  F''     on   von=64
+DT       1/2   (BA    3   CR         2)   TR  2   CH  1   NT  E       off
+DT         0   (BA    3   CR         2)   TR  2   CH  1   NT  F       on   von=51
+DT     3/160   (BA    3   CR   2+3/160)   TR  2   CH  1   ST &B0 &40 &00
+DT       1/2   (BA    3   CR     2+1/2)   TR  1   CH  1   NT  F''     off
+DT         0   (BA    3   CR     2+1/2)   TR  1   CH  1   NT  E''     on   von=61
+DT    77/160   (BA    3   CR     2+1/2)   TR  2   CH  1   NT  F       off
+DT         0   (BA    3   CR     2+1/2)   TR  2   CH  1   NT  E       on   von=48
+DT    43/480   (BA    3   CR 2+283/480)   TR  2   CH  1   ST &B0 &40 &7F
+DT       1/4   (BA    3   CR     2+3/4)   TR  1   CH  1   NT  E''     off
+DT         0   (BA    3   CR     2+3/4)   TR  1   CH  1   NT  D''     on   von=59
+DT    77/480   (BA    3   CR     2+3/4)   TR  2   CH  1   NT  E       off
+DT         0   (BA    3   CR     2+3/4)   TR  2   CH  1   NT  D       on   von=49
+DT       1/8   (BA    3   CR     2+7/8)   TR  1   CH  1   NT  D''     off
+DT         0   (BA    3   CR     2+7/8)   TR  1   CH  1   NT  E''     on   von=55
+DT       1/8   (BA    3   CR     2+7/8)   TR  2   CH  1   NT  D       off
+DT         0   (BA    3   CR     2+7/8)   TR  2   CH  1   NT  E       on   von=48
+
+DT       1/8   (BA    4   CR         0)   TR  1   CH  1   NT  E''     off
+DT         0   (BA    4   CR         0)   TR  1   CH  1   NT  D''     on   von=67
+DT       1/8   (BA    4   CR         0)   TR  2   CH  1   NT  E       off
+DT         0   (BA    4   CR         0)   TR  2   CH  1   NT  D       on   von=53
+DT     3/160   (BA    4   CR     3/160)   TR  2   CH  1   ST &B0 &40 &00
+DT    77/160   (BA    4   CR       1/2)   TR  2   CH  1   ST &B0 &40 &7F
+DT         1   (BA    4   CR         1)   TR  1   CH  1   NT  D''     off
+DT         0   (BA    4   CR         1)   TR  1   CH  1   NT  C''     on   von=60
+DT       1/2   (BA    4   CR         1)   TR  2   CH  1   NT  D       off
+DT         0   (BA    4   CR         1)   TR  2   CH  1   NT  C       on   von=48
+DT      1/40   (BA    4   CR    1+1/40)   TR  2   CH  1   ST &B0 &40 &00
+DT   157/480   (BA    4   CR 1+169/480)   TR  2   CH  1   ST &B0 &40 &7F
+DT         1   (BA    4   CR         2)   TR  1   CH  1   NT  C''     off
+DT         0   (BA    4   CR         2)   TR  1   CH  1   NT  Bb'     on   von=57
+DT   311/480   (BA    4   CR         2)   TR  2   CH  1   NT  C       off
+DT         0   (BA    4   CR         2)   TR  2   CH  1   NT  Bb-     on
+DT      1/32   (BA    4   CR    2+1/32)   TR  2   CH  1   ST &B0 &40 &00
+DT     15/32   (BA    4   CR     2+1/2)   TR  2   CH  1   ST &B0 &40 &7F
+
+DT         1   (BA    5   CR         0)   TR  1   CH  1   NT  Bb'     off
+DT       1/2   (BA    5   CR         0)   TR  2   CH  1   NT  Bb-     off
+DT         0   (BA    5   CR         0)   TR  2   CH  1   NT  A--     on   von=42
+DT     7/120   (BA    5   CR     7/120)   TR  2   CH  1   ST &B0 &40 &00
+DT   143/480   (BA    5   CR    57/160)   TR  2   CH  1   ST &B0 &40 &7F
+DT       1/2   (BA    5   CR       1/2)   TR  1   CH  1   NT  A-      on   von=50
+DT    23/160   (BA    5   CR       1/2)   TR  2   CH  1   NT  A--     off
+DT         0   (BA    5   CR       1/2)   TR  2   CH  1   NT  E-      on   von=39
+DT       1/2   (BA    5   CR         1)   TR  1   CH  1   NT  A-      off
+DT         0   (BA    5   CR         1)   TR  1   CH  1   NT  C#      on   von=51
+DT       1/2   (BA    5   CR         1)   TR  2   CH  1   NT  E-      off
+DT         0   (BA    5   CR         1)   TR  2   CH  1   NT  A-      on
+DT       1/2   (BA    5   CR     1+1/2)   TR  1   CH  1   NT  C#      off
+DT         0   (BA    5   CR     1+1/2)   TR  1   CH  1   NT  E       on   von=54
+DT       1/2   (BA    5   CR     1+1/2)   TR  2   CH  1   NT  A-      off
+DT         0   (BA    5   CR     1+1/2)   TR  2   CH  1   NT  C#      on   von=40
+DT       1/2   (BA    5   CR         2)   TR  1   CH  1   NT  E       off
+DT         0   (BA    5   CR         2)   TR  1   CH  1   NT  A       on   von=57
+DT       1/2   (BA    5   CR         2)   TR  2   CH  1   NT  C#      off
+DT         0   (BA    5   CR         2)   TR  2   CH  1   NT  E       on   von=43
+DT       1/2   (BA    5   CR     2+1/2)   TR  1   CH  1   NT  A       off
+DT         0   (BA    5   CR     2+1/2)   TR  1   CH  1   NT  C#'     on   von=58
+DT       1/2   (BA    5   CR     2+1/2)   TR  2   CH  1   NT  E       off
+DT         0   (BA    5   CR     2+1/2)   TR  2   CH  1   NT  A       on   von=44
+
+DT       1/2   (BA    6   CR         0)   TR  1   CH  1   NT  C#'     off
+DT         0   (BA    6   CR         0)   TR  1   CH  1   NT  E'      on   von=61
+DT       1/2   (BA    6   CR         0)   TR  2   CH  1   NT  A       off
+DT         0   (BA    6   CR         0)   TR  2   CH  1   NT  C#'     on   von=48
+DT      1/30   (BA    6   CR      1/30)   TR  2   CH  1   ST &B0 &40 &00
+DT      3/10   (BA    6   CR       1/3)   TR  2   CH  1   ST &B0 &40 &7F
+DT       1/2   (BA    6   CR       1/2)   TR  1   CH  1   NT  E'      off
+DT         0   (BA    6   CR       1/2)   TR  1   CH  1   NT  A       on   von=50
+DT       1/6   (BA    6   CR       1/2)   TR  2   CH  1   NT  C#'     off
+DT         0   (BA    6   CR       1/2)   TR  2   CH  1   NT  C#      on   von=39
+DT       1/2   (BA    6   CR         1)   TR  1   CH  1   NT  A       off
+DT         0   (BA    6   CR         1)   TR  1   CH  1   NT  C#'     on   von=51
+DT       1/2   (BA    6   CR         1)   TR  2   CH  1   NT  C#      off
+DT         0   (BA    6   CR         1)   TR  2   CH  1   NT  E       on
+DT       1/2   (BA    6   CR     1+1/2)   TR  1   CH  1   NT  C#'     off
+DT         0   (BA    6   CR     1+1/2)   TR  1   CH  1   NT  E'      on   von=54
+DT       1/2   (BA    6   CR     1+1/2)   TR  2   CH  1   NT  E       off
+DT         0   (BA    6   CR     1+1/2)   TR  2   CH  1   NT  A       on   von=40
+DT       1/2   (BA    6   CR         2)   TR  1   CH  1   NT  E'      off
+DT         0   (BA    6   CR         2)   TR  1   CH  1   NT  A'      on   von=57
+DT       1/2   (BA    6   CR         2)   TR  2   CH  1   NT  A       off
+DT         0   (BA    6   CR         2)   TR  2   CH  1   NT  C#'     on   von=43
+DT       1/2   (BA    6   CR     2+1/2)   TR  1   CH  1   NT  A'      off
+DT         0   (BA    6   CR     2+1/2)   TR  1   CH  1   NT  C#''    on   von=58
+DT       1/2   (BA    6   CR     2+1/2)   TR  2   CH  1   NT  C#'     off
+DT         0   (BA    6   CR     2+1/2)   TR  2   CH  1   NT  E'      on   von=44
+
+DT       1/2   (BA    7   CR         0)   TR  1   CH  1   NT  C#''    off
+DT         0   (BA    7   CR         0)   TR  1   CH  1   NT  E''     on   von=64
+DT       1/2   (BA    7   CR         0)   TR  2   CH  1   NT  E'      off
+DT         0   (BA    7   CR         0)   TR  2   CH  1   NT  A'      on   von=49
+DT      1/60   (BA    7   CR      1/60)   TR  2   CH  1   ST &B0 &40 &00
+DT    59/240   (BA    7   CR     21/80)   TR  2   CH  1   ST &B0 &40 &7F
+DT       1/2   (BA    7   CR       1/2)   TR  1   CH  1   NT  E''     off
+DT         0   (BA    7   CR       1/2)   TR  1   CH  1   NT  C#''    on   von=60
+DT     19/80   (BA    7   CR       1/2)   TR  2   CH  1   NT  A'      off
+DT         0   (BA    7   CR       1/2)   TR  2   CH  1   NT  E'      on   von=43
+DT       1/2   (BA    7   CR         1)   TR  1   CH  1   NT  C#''    off
+DT         0   (BA    7   CR         1)   TR  1   CH  1   NT  A'      on   von=58
+DT       1/2   (BA    7   CR         1)   TR  2   CH  1   NT  E'      off
+DT         0   (BA    7   CR         1)   TR  2   CH  1   NT  C#'     on
+DT       1/2   (BA    7   CR     1+1/2)   TR  1   CH  1   NT  A'      off
+DT         0   (BA    7   CR     1+1/2)   TR  1   CH  1   NT  E'      on   von=57
+DT       1/2   (BA    7   CR     1+1/2)   TR  2   CH  1   NT  C#'     off
+DT         0   (BA    7   CR     1+1/2)   TR  2   CH  1   NT  A       on   von=42
+DT       1/2   (BA    7   CR         2)   TR  1   CH  1   NT  E'      off
+DT         0   (BA    7   CR         2)   TR  1   CH  1   NT  C#'     on   von=55
+DT       1/2   (BA    7   CR         2)   TR  2   CH  1   NT  A       off
+DT         0   (BA    7   CR         2)   TR  2   CH  1   NT  E       on   von=40
+DT       1/2   (BA    7   CR     2+1/2)   TR  1   CH  1   NT  C#'     off
+DT         0   (BA    7   CR     2+1/2)   TR  1   CH  1   NT  A       on   von=53
+DT       1/2   (BA    7   CR     2+1/2)   TR  2   CH  1   NT  E       off
+DT         0   (BA    7   CR     2+1/2)   TR  2   CH  1   NT  C#      on
+
+DT       1/2   (BA    8   CR         0)   TR  1   CH  1   NT  A       off
+DT         0   (BA    8   CR         0)   TR  1   CH  1   NT  E'      on   von=51
+DT       1/2   (BA    8   CR         0)   TR  2   CH  1   NT  C#      off
+DT         0   (BA    8   CR         0)   TR  2   CH  1   NT  A       on   von=36
+DT      1/30   (BA    8   CR      1/30)   TR  2   CH  1   ST &B0 &40 &00
+DT     11/48   (BA    8   CR     21/80)   TR  2   CH  1   ST &B0 &40 &7F
+DT       1/2   (BA    8   CR       1/2)   TR  1   CH  1   NT  E'      off
+DT         0   (BA    8   CR       1/2)   TR  1   CH  1   NT  C#'     on   von=48
+DT     19/80   (BA    8   CR       1/2)   TR  2   CH  1   NT  A       off
+DT         0   (BA    8   CR       1/2)   TR  2   CH  1   NT  E       on   von=35
+DT       1/2   (BA    8   CR         1)   TR  1   CH  1   NT  C#'     off
+DT         0   (BA    8   CR         1)   TR  1   CH  1   NT  A       on   von=46
+DT       1/2   (BA    8   CR         1)   TR  2   CH  1   NT  E       off
+DT         0   (BA    8   CR         1)   TR  2   CH  1   NT  C#      on   von=34
+DT       1/2   (BA    8   CR     1+1/2)   TR  1   CH  1   NT  A       off
+DT         0   (BA    8   CR     1+1/2)   TR  1   CH  1   NT  E       on   von=44
+DT       1/2   (BA    8   CR     1+1/2)   TR  2   CH  1   NT  C#      off
+DT         0   (BA    8   CR     1+1/2)   TR  2   CH  1   NT  A-      on   von=32
+DT   119/240   (BA    8   CR 1+239/240)   TR  2   CH  1   NT  A-      off
+DT       1/2   (BA    8   CR         2)   TR  1   CH  1   NT  E       off
+DT         0   (BA    8   CR         2)   TR  1   CH  1   NT  C#      on
+DT     1/240   (BA    8   CR         2)   TR  2   CH  1   NT  A-      on   von=30
+DT    79/160   (BA    8   CR  2+79/160)   TR  2   CH  1   NT  A-      off
+DT       1/2   (BA    8   CR     2+1/2)   TR  1   CH  1   NT  C#      off
+DT         0   (BA    8   CR     2+1/2)   TR  1   CH  1   NT  A-      on   von=42
+DT     1/160   (BA    8   CR     2+1/2)   TR  2   CH  1   NT  E-      on
+
+DT       1/2   (BA    9   CR         0)   TR  1   CH  1   NT  A-      off
+DT       1/2   (BA    9   CR         0)   TR  2   CH  1   NT  E-      off
+DT         0   (BA    9   CR         0)   TR  2   CH  1   NT  A--     on   von=39
+DT      1/32   (BA    9   CR      1/32)   TR  2   CH  1   ST &B0 &40 &00
+DT       1/2   (BA    9   CR       1/2)   TR  1   CH  1   NT  A'      on   von=51
+DT     15/32   (BA    9   CR       1/2)   TR  2   CH  1   NT  A--     off
+DT         0   (BA    9   CR       1/2)   TR  2   CH  1   NT  A-      on   von=40
+DT     7/120   (BA    9   CR    67/120)   TR  2   CH  1   ST &B0 &40 &7F
+DT       1/2   (BA    9   CR         1)   TR  1   CH  1   NT  A'      off
+DT         0   (BA    9   CR         1)   TR  1   CH  1   NT  E''     on   von=56
+DT    53/120   (BA    9   CR         1)   TR  2   CH  1   NT  A-      off
+DT         0   (BA    9   CR         1)   TR  2   CH  1   NT  E       on   von=44
+
+DT     3+1/4   (BA   10   CR     1+1/4)   TR  1   CH  1   NT  E''     off
+DT         0   (BA   10   CR     1+1/4)   TR  1   CH  1   NT  D''     on   von=46
+DT     3+1/4   (BA   10   CR     1+1/4)   TR  2   CH  1   NT  E       off
+DT         0   (BA   10   CR     1+1/4)   TR  2   CH  1   NT  D       on   von=39
+DT       1/8   (BA   10   CR     1+3/8)   TR  1   CH  1   NT  D''     off
+DT         0   (BA   10   CR     1+3/8)   TR  1   CH  1   NT  E''     on   von=41
+DT       1/8   (BA   10   CR     1+3/8)   TR  2   CH  1   NT  D       off
+DT         0   (BA   10   CR     1+3/8)   TR  2   CH  1   NT  E       on   von=35
+DT       1/8   (BA   10   CR     1+1/2)   TR  1   CH  1   NT  E''     off
+DT         0   (BA   10   CR     1+1/2)   TR  1   CH  1   NT  D''     on   von=52
+DT       1/8   (BA   10   CR     1+1/2)   TR  2   CH  1   NT  E       off
+DT         0   (BA   10   CR     1+1/2)   TR  2   CH  1   NT  D       on   von=41
+DT    11/480   (BA   10   CR 1+251/480)   TR  2   CH  1   ST &B0 &40 &00
+DT       1/2   (BA   10   CR         2)   TR  1   CH  1   NT  D''     off
+DT         0   (BA   10   CR         2)   TR  1   CH  1   NT  C''     on   von=48
+DT   229/480   (BA   10   CR         2)   TR  2   CH  1   NT  D       off
+DT         0   (BA   10   CR         2)   TR  2   CH  1   NT  C       on   von=38
+DT    37/240   (BA   10   CR  2+37/240)   TR  2   CH  1   ST &B0 &40 &7F
+DT       1/2   (BA   10   CR     2+1/2)   TR  1   CH  1   NT  C''     off
+DT         0   (BA   10   CR     2+1/2)   TR  1   CH  1   NT  D''     on
+DT    83/240   (BA   10   CR     2+1/2)   TR  2   CH  1   NT  C       off
+DT         0   (BA   10   CR     2+1/2)   TR  2   CH  1   NT  D       on
+
+DT       1/2   (BA   11   CR         0)   TR  1   CH  1   NT  D''     off
+DT         0   (BA   11   CR         0)   TR  1   CH  1   NT  E''     on   von=52
+DT       1/2   (BA   11   CR         0)   TR  2   CH  1   NT  D       off
+DT         0   (BA   11   CR         0)   TR  2   CH  1   NT  E       on   von=41
+DT      1/60   (BA   11   CR      1/60)   TR  2   CH  1   ST &B0 &40 &00
+DT   109/480   (BA   11   CR    39/160)   TR  2   CH  1   ST &B0 &40 &7F
+DT       1/2   (BA   11   CR       1/2)   TR  1   CH  1   NT  E''     off
+DT         0   (BA   11   CR       1/2)   TR  1   CH  1   NT  F''     on   von=54
+DT    41/160   (BA   11   CR       1/2)   TR  2   CH  1   NT  E       off
+DT         0   (BA   11   CR       1/2)   TR  2   CH  1   NT  F       on   von=43
+DT       1/2   (BA   11   CR         1)   TR  1   CH  1   NT  F''     off
+DT         0   (BA   11   CR         1)   TR  1   CH  1   NT  G''     on   von=56
+DT       1/2   (BA   11   CR         1)   TR  2   CH  1   NT  F       off
+DT         0   (BA   11   CR         1)   TR  2   CH  1   NT  G       on   von=45
+DT     7/240   (BA   11   CR   1+7/240)   TR  2   CH  1   ST &B0 &40 &00
+DT      7/80   (BA   11   CR    1+7/60)   TR  2   CH  1   ST &B0 &40 &7F
+DT       1/2   (BA   11   CR     1+1/2)   TR  1   CH  1   NT  G''     off
+DT         0   (BA   11   CR     1+1/2)   TR  1   CH  1   NT  E''     on
+DT     23/60   (BA   11   CR     1+1/2)   TR  2   CH  1   NT  G       off
+DT         0   (BA   11   CR     1+1/2)   TR  2   CH  1   NT  E       on   von=44
+DT       1/2   (BA   11   CR         2)   TR  1   CH  1   NT  E''     off
+DT         0   (BA   11   CR         2)   TR  1   CH  1   NT  F''     on   von=54
+DT       1/2   (BA   11   CR         2)   TR  2   CH  1   NT  E       off
+DT         0   (BA   11   CR         2)   TR  2   CH  1   NT  F       on   von=43
+DT      1/30   (BA   11   CR    2+1/30)   TR  2   CH  1   ST &B0 &40 &00
+DT    47/240   (BA   11   CR   2+11/48)   TR  2   CH  1   ST &B0 &40 &7F
+DT       1/2   (BA   11   CR     2+1/2)   TR  1   CH  1   NT  F''     off
+DT         0   (BA   11   CR     2+1/2)   TR  1   CH  1   NT  E''     on   von=51
+DT     13/48   (BA   11   CR     2+1/2)   TR  2   CH  1   NT  F       off
+DT         0   (BA   11   CR     2+1/2)   TR  2   CH  1   NT  E       on   von=40
+DT       1/4   (BA   11   CR     2+3/4)   TR  1   CH  1   NT  E''     off
+DT         0   (BA   11   CR     2+3/4)   TR  1   CH  1   NT  D''     on
+DT       1/4   (BA   11   CR     2+3/4)   TR  2   CH  1   NT  E       off
+DT         0   (BA   11   CR     2+3/4)   TR  2   CH  1   NT  D       on
+DT       1/8   (BA   11   CR     2+7/8)   TR  1   CH  1   NT  D''     off
+DT         0   (BA   11   CR     2+7/8)   TR  1   CH  1   NT  E''     on   von=47
+DT       1/8   (BA   11   CR     2+7/8)   TR  2   CH  1   NT  D       off
+DT         0   (BA   11   CR     2+7/8)   TR  2   CH  1   NT  E       on   von=37
+
+DT       1/8   (BA   12   CR         0)   TR  1   CH  1   NT  E''     off
+DT         0   (BA   12   CR         0)   TR  1   CH  1   NT  D''     on   von=56
+DT       1/8   (BA   12   CR         0)   TR  2   CH  1   NT  E       off
+DT         0   (BA   12   CR         0)   TR  2   CH  1   NT  D       on   von=45
+DT      5/96   (BA   12   CR      5/96)   TR  2   CH  1   ST &B0 &40 &00
+DT       1/2   (BA   12   CR     53/96)   TR  2   CH  1   ST &B0 &40 &7F
+DT         1   (BA   12   CR         1)   TR  1   CH  1   NT  D''     off
+DT         0   (BA   12   CR         1)   TR  1   CH  1   NT  C''     on   von=51
+DT     43/96   (BA   12   CR         1)   TR  2   CH  1   NT  D       off
+DT         0   (BA   12   CR         1)   TR  2   CH  1   NT  C       on   von=40
+DT      1/32   (BA   12   CR    1+1/32)   TR  2   CH  1   ST &B0 &40 &00
+DT    77/240   (BA   12   CR 1+169/480)   TR  2   CH  1   ST &B0 &40 &7F
+DT         1   (BA   12   CR         2)   TR  1   CH  1   NT  C''     off
+DT         0   (BA   12   CR         2)   TR  1   CH  1   NT  Bb'     on   von=48
+DT   311/480   (BA   12   CR         2)   TR  2   CH  1   NT  C       off
+DT         0   (BA   12   CR         2)   TR  2   CH  1   NT  Bb-     on   von=38
+DT     3/160   (BA   12   CR   2+3/160)   TR  2   CH  1   ST &B0 &40 &00
+DT     41/96   (BA   12   CR 2+107/240)   TR  2   CH  1   ST &B0 &40 &7F
+
+DT         1   (BA   13   CR         0)   TR  1   CH  1   NT  Bb'     off
+DT         0   (BA   13   CR         0)   TR  1   CH  1   NT  A'      on   von=44
+DT   133/240   (BA   13   CR         0)   TR  2   CH  1   NT  Bb-     off
+DT         0   (BA   13   CR         0)   TR  2   CH  1   NT  A-      on   von=32
+DT    23/480   (BA   13   CR    23/480)   TR  2   CH  1   ST &B0 &40 &00
+DT    41/480   (BA   13   CR      2/15)   TR  2   CH  1   ST &B0 &40 &7F
+DT       1/2   (BA   13   CR       1/2)   TR  1   CH  1   NT  A'      off
+DT         0   (BA   13   CR       1/2)   TR  1   CH  1   NT  Bb'     on   von=46
+DT     11/30   (BA   13   CR       1/2)   TR  2   CH  1   NT  A-      off
+DT         0   (BA   13   CR       1/2)   TR  2   CH  1   NT  Bb-     on   von=34
+DT       1/2   (BA   13   CR         1)   TR  1   CH  1   NT  Bb'     off
+DT         0   (BA   13   CR         1)   TR  1   CH  1   NT  C''     on   von=48
+DT       1/2   (BA   13   CR         1)   TR  2   CH  1   NT  Bb-     off
+DT         0   (BA   13   CR         1)   TR  2   CH  1   NT  C       on   von=36
+DT       1/2   (BA   13   CR     1+1/2)   TR  1   CH  1   NT  C''     off
+DT         0   (BA   13   CR     1+1/2)   TR  1   CH  1   NT  D''     on   von=50
+DT       1/2   (BA   13   CR     1+1/2)   TR  2   CH  1   NT  C       off
+DT         0   (BA   13   CR     1+1/2)   TR  2   CH  1   NT  D       on   von=37
+DT       1/2   (BA   13   CR         2)   TR  1   CH  1   NT  D''     off
+DT         0   (BA   13   CR         2)   TR  1   CH  1   NT  F''     on   von=52
+DT       1/2   (BA   13   CR         2)   TR  2   CH  1   NT  D       off
+DT         0   (BA   13   CR         2)   TR  2   CH  1   NT  F       on   von=39
+DT     7/240   (BA   13   CR   2+7/240)   TR  2   CH  1   ST &B0 &40 &00
+DT   103/480   (BA   13   CR  2+39/160)   TR  2   CH  1   ST &B0 &40 &7F
+DT       3/4   (BA   13   CR     2+3/4)   TR  1   CH  1   NT  F''     off
+DT         0   (BA   13   CR     2+3/4)   TR  1   CH  1   NT  D''     on   von=49
+DT    81/160   (BA   13   CR     2+3/4)   TR  2   CH  1   NT  F       off
+DT         0   (BA   13   CR     2+3/4)   TR  2   CH  1   NT  D       on   von=40
+DT       1/8   (BA   13   CR     2+7/8)   TR  1   CH  1   NT  D''     off
+DT         0   (BA   13   CR     2+7/8)   TR  1   CH  1   NT  E''     on   von=42
+DT       1/8   (BA   13   CR     2+7/8)   TR  2   CH  1   NT  D       off
+DT         0   (BA   13   CR     2+7/8)   TR  2   CH  1   NT  E       on   von=37
+
+DT       1/8   (BA   14   CR         0)   TR  1   CH  1   NT  E''     off
+DT         0   (BA   14   CR         0)   TR  1   CH  1   NT  D''     on   von=56
+DT       1/8   (BA   14   CR         0)   TR  2   CH  1   NT  E       off
+DT         0   (BA   14   CR         0)   TR  2   CH  1   NT  D       on   von=45
+DT      1/40   (BA   14   CR      1/40)   TR  2   CH  1   ST &B0 &40 &00
+DT     35/96   (BA   14   CR   187/480)   TR  2   CH  1   ST &B0 &40 &7F
+DT         1   (BA   14   CR         1)   TR  1   CH  1   NT  D''     off
+DT         0   (BA   14   CR         1)   TR  1   CH  1   NT  C''     on   von=51
+DT   293/480   (BA   14   CR         1)   TR  2   CH  1   NT  D       off
+DT         0   (BA   14   CR         1)   TR  2   CH  1   NT  C       on   von=40
+DT      1/40   (BA   14   CR    1+1/40)   TR  2   CH  1   ST &B0 &40 &00
+DT     19/40   (BA   14   CR     1+1/2)   TR  2   CH  1   ST &B0 &40 &7F
+DT         1   (BA   14   CR         2)   TR  1   CH  1   NT  C''     off
+DT         0   (BA   14   CR         2)   TR  1   CH  1   NT  Bb'     on   von=48
+DT       1/2   (BA   14   CR         2)   TR  2   CH  1   NT  C       off
+DT         0   (BA   14   CR         2)   TR  2   CH  1   NT  Bb-     on
+DT    19/480   (BA   14   CR  2+19/480)   TR  2   CH  1   ST &B0 &40 &00
+DT      7/20   (BA   14   CR 2+187/480)   TR  2   CH  1   ST &B0 &40 &7F
+
+DT         1   (BA   15   CR         0)   TR  1   CH  1   NT  Bb'     off
+DT         0   (BA   15   CR         0)   TR  1   CH  1   NT  A'      on   von=46
+DT   293/480   (BA   15   CR         0)   TR  2   CH  1   NT  Bb-     off
+DT         0   (BA   15   CR         0)   TR  2   CH  1   NT  A-      on   von=32
+DT      1/32   (BA   15   CR      1/32)   TR  2   CH  1   ST &B0 &40 &00
+DT     21/80   (BA   15   CR    47/160)   TR  2   CH  1   ST &B0 &40 &7F
+DT       1/2   (BA   15   CR       1/2)   TR  1   CH  1   NT  A'      off
+DT         0   (BA   15   CR       1/2)   TR  1   CH  1   NT  Bb'     on   von=47
+DT    33/160   (BA   15   CR       1/2)   TR  2   CH  1   NT  A-      off
+DT         0   (BA   15   CR       1/2)   TR  2   CH  1   NT  Bb-     on   von=33
+DT       1/2   (BA   15   CR         1)   TR  1   CH  1   NT  Bb'     off
+DT         0   (BA   15   CR         1)   TR  1   CH  1   NT  C''     on   von=49
+DT       1/2   (BA   15   CR         1)   TR  2   CH  1   NT  Bb-     off
+DT         0   (BA   15   CR         1)   TR  2   CH  1   NT  C       on   von=35
+DT       1/2   (BA   15   CR     1+1/2)   TR  1   CH  1   NT  C''     off
+DT         0   (BA   15   CR     1+1/2)   TR  1   CH  1   NT  D''     on   von=51
+DT       1/2   (BA   15   CR     1+1/2)   TR  2   CH  1   NT  C       off
+DT         0   (BA   15   CR     1+1/2)   TR  2   CH  1   NT  D       on   von=37
+DT       1/2   (BA   15   CR         2)   TR  1   CH  1   NT  D''     off
+DT         0   (BA   15   CR         2)   TR  1   CH  1   NT  E''     on   von=53
+DT       1/2   (BA   15   CR         2)   TR  2   CH  1   NT  D       off
+DT         0   (BA   15   CR         2)   TR  2   CH  1   NT  E       on   von=39
+DT      1/96   (BA   15   CR    2+1/96)   TR  2   CH  1   ST &B0 &40 &00
+DT     11/32   (BA   15   CR   2+17/48)   TR  2   CH  1   ST &B0 &40 &7F
+DT       1/2   (BA   15   CR     2+1/2)   TR  1   CH  1   NT  E''     off
+DT         0   (BA   15   CR     2+1/2)   TR  1   CH  1   NT  G''     on   von=57
+DT      7/48   (BA   15   CR     2+1/2)   TR  2   CH  1   NT  E       off
+DT         0   (BA   15   CR     2+1/2)   TR  2   CH  1   NT  G       on   von=40
+
+DT       1/2   (BA   16   CR         0)   TR  1   CH  1   NT  G''     off
+DT         0   (BA   16   CR         0)   TR  1   CH  1   NT  F''     on   von=55
+DT       1/2   (BA   16   CR         0)   TR  2   CH  1   NT  G       off
+DT         0   (BA   16   CR         0)   TR  2   CH  1   NT  F       on   von=43
+DT    11/480   (BA   16   CR    11/480)   TR  2   CH  1   ST &B0 &40 &00
+DT       1/4   (BA   16   CR       1/4)   TR  1   CH  1   NT  F''     off
+DT         0   (BA   16   CR       1/4)   TR  1   CH  1   NT  D''     on   von=46
+DT   109/480   (BA   16   CR       1/4)   TR  2   CH  1   NT  F       off
+DT         0   (BA   16   CR       1/4)   TR  2   CH  1   NT  D       on   von=34
+DT       1/8   (BA   16   CR       3/8)   TR  1   CH  1   NT  D''     off
+DT         0   (BA   16   CR       3/8)   TR  1   CH  1   NT  E''     on   von=40
+DT       1/8   (BA   16   CR       3/8)   TR  2   CH  1   NT  D       off
+DT         0   (BA   16   CR       3/8)   TR  2   CH  1   NT  E       on   von=32
+DT       1/8   (BA   16   CR       1/2)   TR  1   CH  1   NT  E''     off
+DT         0   (BA   16   CR       1/2)   TR  1   CH  1   NT  D''     on   von=50
+DT       1/8   (BA   16   CR       1/2)   TR  2   CH  1   NT  E       off
+DT         0   (BA   16   CR       1/2)   TR  2   CH  1   NT  D       on   von=37
+DT       1/2   (BA   16   CR         1)   TR  1   CH  1   NT  D''     off
+DT         0   (BA   16   CR         1)   TR  1   CH  1   NT  C''     on
+DT       1/2   (BA   16   CR         1)   TR  2   CH  1   NT  D       off
+DT         0   (BA   16   CR         1)   TR  2   CH  1   NT  C       on
+DT    27/160   (BA   16   CR  1+27/160)   TR  2   CH  1   ST &B0 &40 &7F
+DT       1/2   (BA   16   CR     1+1/2)   TR  1   CH  1   NT  C''     off
+DT         0   (BA   16   CR     1+1/2)   TR  1   CH  1   NT  Bb'     on   von=45
+DT    53/160   (BA   16   CR     1+1/2)   TR  2   CH  1   NT  C       off
+DT         0   (BA   16   CR     1+1/2)   TR  2   CH  1   NT  Bb-     on   von=33
+DT       1/2   (BA   16   CR         2)   TR  1   CH  1   NT  Bb'     off
+DT         0   (BA   16   CR         2)   TR  1   CH  1   NT  D''     on   von=49
+DT       1/2   (BA   16   CR         2)   TR  2   CH  1   NT  Bb-     off
+DT         0   (BA   16   CR         2)   TR  2   CH  1   NT  D       on   von=36
+DT    13/480   (BA   16   CR  2+13/480)   TR  2   CH  1   ST &B0 &40 &00
+DT    61/480   (BA   16   CR  2+37/240)   TR  2   CH  1   ST &B0 &40 &7F
+DT       1/2   (BA   16   CR     2+1/2)   TR  1   CH  1   NT  D''     off
+DT         0   (BA   16   CR     2+1/2)   TR  1   CH  1   NT  C#''    on   von=44
+DT    83/240   (BA   16   CR     2+1/2)   TR  2   CH  1   NT  D       off
+DT         0   (BA   16   CR     2+1/2)   TR  2   CH  1   NT  C#      on   von=33
+
+DT       1/2   (BA   17   CR         0)   TR  1   CH  1   NT  C#''    off
+DT       1/2   (BA   17   CR         0)   TR  2   CH  1   NT  C#      off
+DT         0   (BA   17   CR         0)   TR  2   CH  1   NT  A--     on   von=67
+DT     7/480   (BA   17   CR     7/480)   TR  2   CH  1   ST &B0 &40 &00
+DT    17/120   (BA   17   CR      5/32)   TR  2   CH  1   ST &B0 &40 &7F
+DT       1/3   (BA   17   CR       1/3)   TR  1   CH  1   NT  Bb      on   von=51
+DT         0   (BA   17   CR       1/3)   TR  1   CH  1   NT  C#      on   von=29
+DT       1/3   (BA   17   CR       2/3)   TR  1   CH  1   NT  Bb      off
+DT         0   (BA   17   CR       2/3)   TR  1   CH  1   NT  A       on   von=46
+DT       1/3   (BA   17   CR         1)   TR  1   CH  1   NT  A       off
+DT         0   (BA   17   CR         1)   TR  1   CH  1   NT  C#      off
+DT     27/32   (BA   17   CR         1)   TR  2   CH  1   NT  A--     off
+DT         0   (BA   17   CR         1)   TR  2   CH  1   NT  E-      on   von=55
+DT       1/3   (BA   17   CR     1+1/3)   TR  1   CH  1   NT  C#      on   von=29
+DT         0   (BA   17   CR     1+1/3)   TR  1   CH  1   NT  Bb      on   von=52
+DT       1/3   (BA   17   CR     1+2/3)   TR  1   CH  1   NT  Bb      off
+DT         0   (BA   17   CR     1+2/3)   TR  1   CH  1   NT  A       on   von=45
+DT       1/3   (BA   17   CR         2)   TR  1   CH  1   NT  A       off
+DT         0   (BA   17   CR         2)   TR  1   CH  1   NT  C#      off
+DT         1   (BA   17   CR         2)   TR  2   CH  1   NT  E-      off
+DT         0   (BA   17   CR         2)   TR  2   CH  1   NT  A-      on
+DT       1/3   (BA   17   CR     2+1/3)   TR  1   CH  1   NT  C#      on   von=29
+DT         0   (BA   17   CR     2+1/3)   TR  1   CH  1   NT  Bb      on   von=51
+DT       1/3   (BA   17   CR     2+2/3)   TR  1   CH  1   NT  Bb      off
+DT         0   (BA   17   CR     2+2/3)   TR  1   CH  1   NT  A       on   von=45
+
+DT       1/3   (BA   18   CR         0)   TR  1   CH  1   NT  A       off
+DT         0   (BA   18   CR         0)   TR  1   CH  1   NT  C#      off
+DT         1   (BA   18   CR         0)   TR  2   CH  1   NT  A-      off
+DT         0   (BA   18   CR         0)   TR  2   CH  1   NT  A--     on   von=68
+DT      1/24   (BA   18   CR      1/24)   TR  2   CH  1   ST &B0 &40 &00
+DT      9/80   (BA   18   CR    37/240)   TR  2   CH  1   ST &B0 &40 &7F
+DT       1/3   (BA   18   CR       1/3)   TR  1   CH  1   NT  D       on   von=27
+DT         0   (BA   18   CR       1/3)   TR  1   CH  1   NT  A       on   von=48
+DT       1/3   (BA   18   CR       2/3)   TR  1   CH  1   NT  A       off
+DT         0   (BA   18   CR       2/3)   TR  1   CH  1   NT  G       on   von=41
+DT       1/3   (BA   18   CR         1)   TR  1   CH  1   NT  G       off
+DT         0   (BA   18   CR         1)   TR  1   CH  1   NT  D       off
+DT   203/240   (BA   18   CR         1)   TR  2   CH  1   NT  A--     off
+DT         0   (BA   18   CR         1)   TR  2   CH  1   NT  E-      on   von=55
+DT       1/3   (BA   18   CR     1+1/3)   TR  1   CH  1   NT  A       on   von=48
+DT         0   (BA   18   CR     1+1/3)   TR  1   CH  1   NT  D       on   von=27
+DT       1/3   (BA   18   CR     1+2/3)   TR  1   CH  1   NT  A       off
+DT         0   (BA   18   CR     1+2/3)   TR  1   CH  1   NT  G       on   von=40
+DT       1/3   (BA   18   CR         2)   TR  1   CH  1   NT  G       off
+DT         0   (BA   18   CR         2)   TR  1   CH  1   NT  D       off
+DT         1   (BA   18   CR         2)   TR  2   CH  1   NT  E-      off
+DT         0   (BA   18   CR         2)   TR  2   CH  1   NT  Bb-     on
+DT       1/3   (BA   18   CR     2+1/3)   TR  1   CH  1   NT  D       on   von=27
+DT         0   (BA   18   CR     2+1/3)   TR  1   CH  1   NT  A       on   von=47
+DT       1/3   (BA   18   CR     2+2/3)   TR  1   CH  1   NT  A       off
+DT         0   (BA   18   CR     2+2/3)   TR  1   CH  1   NT  G       on   von=40
+
+DT       1/3   (BA   19   CR         0)   TR  1   CH  1   NT  G       off
+DT         0   (BA   19   CR         0)   TR  1   CH  1   NT  D       off
+DT         1   (BA   19   CR         0)   TR  2   CH  1   NT  Bb-     off
+DT         0   (BA   19   CR         0)   TR  2   CH  1   NT  A--     on   von=65
+DT      1/32   (BA   19   CR      1/32)   TR  2   CH  1   ST &B0 &40 &00
+DT      7/80   (BA   19   CR    19/160)   TR  2   CH  1   ST &B0 &40 &7F
+DT       1/3   (BA   19   CR       1/3)   TR  1   CH  1   NT  C#      on   von=29
+DT         0   (BA   19   CR       1/3)   TR  1   CH  1   NT  Bb      on   von=51
+DT       1/3   (BA   19   CR       2/3)   TR  1   CH  1   NT  Bb      off
+DT         0   (BA   19   CR       2/3)   TR  1   CH  1   NT  A       on   von=46
+DT       1/3   (BA   19   CR         1)   TR  1   CH  1   NT  A       off
+DT         0   (BA   19   CR         1)   TR  1   CH  1   NT  C#      off
+DT   141/160   (BA   19   CR         1)   TR  2   CH  1   NT  A--     off
+DT         0   (BA   19   CR         1)   TR  2   CH  1   NT  E-      on   von=52
+DT       1/3   (BA   19   CR     1+1/3)   TR  1   CH  1   NT  Bb      on   von=52
+DT         0   (BA   19   CR     1+1/3)   TR  1   CH  1   NT  C#      on   von=42
+DT       1/3   (BA   19   CR     1+2/3)   TR  1   CH  1   NT  Bb      off
+DT         0   (BA   19   CR     1+2/3)   TR  1   CH  1   NT  A       on   von=45
+DT       1/3   (BA   19   CR         2)   TR  1   CH  1   NT  A       off
+DT         0   (BA   19   CR         2)   TR  1   CH  1   NT  C#      off
+DT         1   (BA   19   CR         2)   TR  2   CH  1   NT  E-      off
+DT         0   (BA   19   CR         2)   TR  2   CH  1   NT  A-      on
+DT       1/3   (BA   19   CR     2+1/3)   TR  1   CH  1   NT  C#      on   von=42
+DT         0   (BA   19   CR     2+1/3)   TR  1   CH  1   NT  Bb      on   von=51
+DT       1/3   (BA   19   CR     2+2/3)   TR  1   CH  1   NT  Bb      off
+DT         0   (BA   19   CR     2+2/3)   TR  1   CH  1   NT  A       on   von=45
+
+DT       1/3   (BA   20   CR         0)   TR  1   CH  1   NT  A       off
+DT         0   (BA   20   CR         0)   TR  1   CH  1   NT  C#      off
+DT         1   (BA   20   CR         0)   TR  2   CH  1   NT  A-      off
+DT         0   (BA   20   CR         0)   TR  2   CH  1   NT  A--     on   von=64
+DT     7/160   (BA   20   CR     7/160)   TR  2   CH  1   ST &B0 &40 &00
+DT    67/480   (BA   20   CR     11/60)   TR  2   CH  1   ST &B0 &40 &7F
+DT       1/3   (BA   20   CR       1/3)   TR  1   CH  1   NT  Bb      on   von=48
+DT         0   (BA   20   CR       1/3)   TR  1   CH  1   NT  D       on   von=27
+DT       1/3   (BA   20   CR       2/3)   TR  1   CH  1   NT  Bb      off
+DT         0   (BA   20   CR       2/3)   TR  1   CH  1   NT  A       on   von=41
+DT       1/3   (BA   20   CR         1)   TR  1   CH  1   NT  A       off
+DT         0   (BA   20   CR         1)   TR  1   CH  1   NT  D       off
+DT     49/60   (BA   20   CR         1)   TR  2   CH  1   NT  A--     off
+DT         0   (BA   20   CR         1)   TR  2   CH  1   NT  E-      on   von=55
+DT       1/3   (BA   20   CR     1+1/3)   TR  1   CH  1   NT  A       on   von=48
+DT         0   (BA   20   CR     1+1/3)   TR  1   CH  1   NT  D       on   von=27
+DT       1/3   (BA   20   CR     1+2/3)   TR  1   CH  1   NT  A       off
+DT         0   (BA   20   CR     1+2/3)   TR  1   CH  1   NT  G       on   von=40
+DT       1/3   (BA   20   CR         2)   TR  1   CH  1   NT  G       off
+DT         0   (BA   20   CR         2)   TR  1   CH  1   NT  D       off
+DT         1   (BA   20   CR         2)   TR  2   CH  1   NT  E-      off
+DT         0   (BA   20   CR         2)   TR  2   CH  1   NT  Bb-     on   von=54
+DT       1/3   (BA   20   CR     2+1/3)   TR  1   CH  1   NT  G       on   von=47
+DT         0   (BA   20   CR     2+1/3)   TR  1   CH  1   NT  D       on   von=27
+DT       1/3   (BA   20   CR     2+2/3)   TR  1   CH  1   NT  G       off
+DT         0   (BA   20   CR     2+2/3)   TR  1   CH  1   NT  E       on   von=40
+
+DT       1/3   (BA   21   CR         0)   TR  1   CH  1   NT  E       off
+DT         0   (BA   21   CR         0)   TR  1   CH  1   NT  D       off
+DT         1   (BA   21   CR         0)   TR  2   CH  1   NT  Bb-     off
+DT         0   (BA   21   CR         0)   TR  2   CH  1   NT  A--     on   von=69
+DT      1/32   (BA   21   CR      1/32)   TR  2   CH  1   ST &B0 &40 &00
+DT      1/12   (BA   21   CR     11/96)   TR  2   CH  1   ST &B0 &40 &7F
+DT       1/3   (BA   21   CR       1/3)   TR  1   CH  1   NT  C#      on   von=30
+DT         0   (BA   21   CR       1/3)   TR  1   CH  1   NT  Bb      on   von=53
+DT       1/3   (BA   21   CR       2/3)   TR  1   CH  1   NT  Bb      off
+DT         0   (BA   21   CR       2/3)   TR  1   CH  1   NT  A       on   von=48
+DT       1/3   (BA   21   CR         1)   TR  1   CH  1   NT  A       off
+DT         0   (BA   21   CR         1)   TR  1   CH  1   NT  C#      off
+DT     85/96   (BA   21   CR         1)   TR  2   CH  1   NT  A--     off
+DT         0   (BA   21   CR         1)   TR  2   CH  1   NT  E-      on   von=57
+DT       1/3   (BA   21   CR     1+1/3)   TR  1   CH  1   NT  Bb      on   von=55
+DT         0   (BA   21   CR     1+1/3)   TR  1   CH  1   NT  C#      on   von=31
+DT       1/3   (BA   21   CR     1+2/3)   TR  1   CH  1   NT  Bb      off
+DT         0   (BA   21   CR     1+2/3)   TR  1   CH  1   NT  A       on   von=48
+DT       1/3   (BA   21   CR         2)   TR  1   CH  1   NT  A       off
+DT         0   (BA   21   CR         2)   TR  1   CH  1   NT  C#      off
+DT         1   (BA   21   CR         2)   TR  2   CH  1   NT  E-      off
+DT         0   (BA   21   CR         2)   TR  2   CH  1   NT  A-      on   von=58
+DT       1/3   (BA   21   CR     2+1/3)   TR  1   CH  1   NT  Bb      on   von=56
+DT         0   (BA   21   CR     2+1/3)   TR  1   CH  1   NT  C#      on   von=31
+DT       1/3   (BA   21   CR     2+2/3)   TR  1   CH  1   NT  Bb      off
+DT         0   (BA   21   CR     2+2/3)   TR  1   CH  1   NT  A       on   von=49
+
+DT       1/3   (BA   22   CR         0)   TR  1   CH  1   NT  A       off
+DT         0   (BA   22   CR         0)   TR  1   CH  1   NT  C#      off
+DT         1   (BA   22   CR         0)   TR  2   CH  1   NT  A-      off
+DT         0   (BA   22   CR         0)   TR  2   CH  1   NT  F--     on   von=66
+DT     7/240   (BA   22   CR     7/240)   TR  2   CH  1   ST &B0 &40 &00
+DT      5/48   (BA   22   CR      2/15)   TR  2   CH  1   ST &B0 &40 &7F
+DT       1/3   (BA   22   CR       1/3)   TR  1   CH  1   NT  G       on   von=57
+DT         0   (BA   22   CR       1/3)   TR  1   CH  1   NT  A-      on   von=32
+DT       1/3   (BA   22   CR       2/3)   TR  1   CH  1   NT  G       off
+DT         0   (BA   22   CR       2/3)   TR  1   CH  1   NT  F       on   von=50
+DT       1/3   (BA   22   CR         1)   TR  1   CH  1   NT  F       off
+DT         0   (BA   22   CR         1)   TR  1   CH  1   NT  A-      off
+DT     13/15   (BA   22   CR         1)   TR  2   CH  1   NT  F--     off
+DT         0   (BA   22   CR         1)   TR  2   CH  1   NT  C-      on   von=51
+DT       1/3   (BA   22   CR     1+1/3)   TR  1   CH  1   NT  A-      on   von=33
+DT         0   (BA   22   CR     1+1/3)   TR  1   CH  1   NT  G       on   von=58
+DT       1/3   (BA   22   CR     1+2/3)   TR  1   CH  1   NT  G       off
+DT         0   (BA   22   CR     1+2/3)   TR  1   CH  1   NT  F       on   von=48
+DT       1/3   (BA   22   CR         2)   TR  1   CH  1   NT  F       off
+DT         0   (BA   22   CR         2)   TR  1   CH  1   NT  A-      off
+DT         1   (BA   22   CR         2)   TR  2   CH  1   NT  C-      off
+DT         0   (BA   22   CR         2)   TR  2   CH  1   NT  A-      on   von=69
+DT      5/16   (BA   22   CR    2+5/16)   TR  2   CH  1   NT  A-      off
+DT       1/3   (BA   22   CR     2+1/3)   TR  1   CH  1   NT  G       on   von=58
+DT         0   (BA   22   CR     2+1/3)   TR  1   CH  1   NT  A-      on   von=32
+DT       1/3   (BA   22   CR     2+2/3)   TR  1   CH  1   NT  G       off
+DT         0   (BA   22   CR     2+2/3)   TR  1   CH  1   NT  F       on   von=49
+
+DT       1/3   (BA   23   CR         0)   TR  1   CH  1   NT  F       off
+DT         0   (BA   23   CR         0)   TR  1   CH  1   NT  A-      off
+DT     11/16   (BA   23   CR         0)   TR  2   CH  1   NT  C-      on   von=74
+DT     7/160   (BA   23   CR     7/160)   TR  2   CH  1   ST &B0 &40 &00
+DT      2/15   (BA   23   CR     17/96)   TR  2   CH  1   ST &B0 &40 &7F
+DT       1/3   (BA   23   CR       1/3)   TR  1   CH  1   NT  C       on   von=34
+DT         0   (BA   23   CR       1/3)   TR  1   CH  1   NT  F       on   von=60
+DT       1/3   (BA   23   CR       2/3)   TR  1   CH  1   NT  F       off
+DT         0   (BA   23   CR       2/3)   TR  1   CH  1   NT  E       on   von=53
+DT       1/3   (BA   23   CR         1)   TR  1   CH  1   NT  E       off
+DT         0   (BA   23   CR         1)   TR  1   CH  1   NT  C       off
+DT     79/96   (BA   23   CR         1)   TR  2   CH  1   NT  C-      off
+DT         0   (BA   23   CR         1)   TR  2   CH  1   NT  G-      on   von=73
+DT       1/3   (BA   23   CR     1+1/3)   TR  1   CH  1   NT  F       on   von=61
+DT         0   (BA   23   CR     1+1/3)   TR  1   CH  1   NT  C       on   von=35
+DT       1/3   (BA   23   CR     1+2/3)   TR  1   CH  1   NT  F       off
+DT         0   (BA   23   CR     1+2/3)   TR  1   CH  1   NT  E       on   von=51
+DT       1/3   (BA   23   CR         2)   TR  1   CH  1   NT  E       off
+DT         0   (BA   23   CR         2)   TR  1   CH  1   NT  C       off
+DT         1   (BA   23   CR         2)   TR  2   CH  1   NT  G-      off
+DT         0   (BA   23   CR         2)   TR  2   CH  1   NT  C       on   von=69
+DT      5/16   (BA   23   CR    2+5/16)   TR  2   CH  1   NT  C       off
+DT       1/3   (BA   23   CR     2+1/3)   TR  1   CH  1   NT  C       on   von=34
+DT         0   (BA   23   CR     2+1/3)   TR  1   CH  1   NT  F       on   von=61
+DT       1/3   (BA   23   CR     2+2/3)   TR  1   CH  1   NT  F       off
+DT         0   (BA   23   CR     2+2/3)   TR  1   CH  1   NT  E       on   von=52
+
+DT       1/3   (BA   24   CR         0)   TR  1   CH  1   NT  E       off
+DT         0   (BA   24   CR         0)   TR  1   CH  1   NT  C       off
+DT     11/16   (BA   24   CR         0)   TR  2   CH  1   NT  G-      on   von=66
+DT     7/240   (BA   24   CR     7/240)   TR  2   CH  1   ST &B0 &40 &00
+DT    19/160   (BA   24   CR    71/480)   TR  2   CH  1   ST &B0 &40 &7F
+DT    49/480   (BA   24   CR       1/4)   TR  2   CH  1   NT  G-      off
+DT       1/3   (BA   24   CR       1/3)   TR  1   CH  1   NT  E       on   von=58
+DT         0   (BA   24   CR       1/3)   TR  1   CH  1   NT  Bb-     on   von=33
+DT       1/3   (BA   24   CR       2/3)   TR  1   CH  1   NT  E       off
+DT         0   (BA   24   CR       2/3)   TR  1   CH  1   NT  D       on   von=50
+DT       1/3   (BA   24   CR         1)   TR  1   CH  1   NT  D       off
+DT         0   (BA   24   CR         1)   TR  1   CH  1   NT  Bb-     off
+DT       3/4   (BA   24   CR         1)   TR  2   CH  1   NT  A-      on   von=59
+DT       1/4   (BA   24   CR     1+1/4)   TR  2   CH  1   NT  A-      off
+DT       1/3   (BA   24   CR     1+1/3)   TR  1   CH  1   NT  E       on   von=55
+DT         0   (BA   24   CR     1+1/3)   TR  1   CH  1   NT  Bb-     on   von=31
+DT       1/3   (BA   24   CR     1+2/3)   TR  1   CH  1   NT  E       off
+DT         0   (BA   24   CR     1+2/3)   TR  1   CH  1   NT  D       on   von=44
+DT       5/8   (BA   24   CR     1+7/8)   TR  2   CH  1   NT  C       on   von=55
+DT       1/3   (BA   24   CR         2)   TR  1   CH  1   NT  D       off
+DT         0   (BA   24   CR         2)   TR  1   CH  1   NT  Bb-     off
+DT       1/8   (BA   24   CR         2)   TR  2   CH  1   NT  C       off
+DT         0   (BA   24   CR         2)   TR  2   CH  1   NT  Bb-     on   von=53
+DT       1/4   (BA   24   CR     2+1/4)   TR  2   CH  1   NT  Bb-     off
+DT       1/3   (BA   24   CR     2+1/3)   TR  1   CH  1   NT  E       on   von=52
+DT         0   (BA   24   CR     2+1/3)   TR  1   CH  1   NT  Bb-     on   von=29
+DT       1/3   (BA   24   CR     2+2/3)   TR  1   CH  1   NT  E       off
+DT         0   (BA   24   CR     2+2/3)   TR  1   CH  1   NT  D       on   von=42
+
+DT       1/3   (BA   25   CR         0)   TR  1   CH  1   NT  D       off
+DT         0   (BA   25   CR         0)   TR  1   CH  1   NT  Bb-     off
+DT       3/4   (BA   25   CR         0)   TR  2   CH  1   NT  A--     on   von=64
+DT      1/40   (BA   25   CR      1/40)   TR  2   CH  1   ST &B0 &40 &00
+DT    71/480   (BA   25   CR    83/480)   TR  2   CH  1   ST &B0 &40 &7F
+DT       1/3   (BA   25   CR       1/3)   TR  1   CH  1   NT  C#      on   von=29
+DT         0   (BA   25   CR       1/3)   TR  1   CH  1   NT  Bb      on   von=51
+DT       1/3   (BA   25   CR       2/3)   TR  1   CH  1   NT  Bb      off
+DT         0   (BA   25   CR       2/3)   TR  1   CH  1   NT  A       on   von=46
+DT       1/3   (BA   25   CR         1)   TR  1   CH  1   NT  A       off
+DT         0   (BA   25   CR         1)   TR  1   CH  1   NT  C#      off
+DT   397/480   (BA   25   CR         1)   TR  2   CH  1   NT  A--     off
+DT         0   (BA   25   CR         1)   TR  2   CH  1   NT  E-      on   von=55
+DT       1/3   (BA   25   CR     1+1/3)   TR  1   CH  1   NT  C#      on   von=29
+DT         0   (BA   25   CR     1+1/3)   TR  1   CH  1   NT  Bb      on   von=52
+DT       1/3   (BA   25   CR     1+2/3)   TR  1   CH  1   NT  Bb      off
+DT         0   (BA   25   CR     1+2/3)   TR  1   CH  1   NT  A       on   von=45
+DT       1/3   (BA   25   CR         2)   TR  1   CH  1   NT  A       off
+DT         0   (BA   25   CR         2)   TR  1   CH  1   NT  C#      off
+DT         1   (BA   25   CR         2)   TR  2   CH  1   NT  E-      off
+DT         0   (BA   25   CR         2)   TR  2   CH  1   NT  A-      on
+DT       1/3   (BA   25   CR     2+1/3)   TR  1   CH  1   NT  C#      on   von=29
+DT         0   (BA   25   CR     2+1/3)   TR  1   CH  1   NT  Bb      on   von=51
+DT       1/3   (BA   25   CR     2+2/3)   TR  1   CH  1   NT  Bb      off
+DT         0   (BA   25   CR     2+2/3)   TR  1   CH  1   NT  A       on   von=45
+
+DT       1/3   (BA   26   CR         0)   TR  1   CH  1   NT  A       off
+DT         0   (BA   26   CR         0)   TR  1   CH  1   NT  C#      off
+DT         1   (BA   26   CR         0)   TR  2   CH  1   NT  A-      off
+DT         0   (BA   26   CR         0)   TR  2   CH  1   NT  A--     on   von=65
+DT    23/480   (BA   26   CR    23/480)   TR  2   CH  1   ST &B0 &40 &00
+DT    29/240   (BA   26   CR    27/160)   TR  2   CH  1   ST &B0 &40 &7F
+DT       1/3   (BA   26   CR       1/3)   TR  1   CH  1   NT  A       on   von=48
+DT         0   (BA   26   CR       1/3)   TR  1   CH  1   NT  D       on   von=27
+DT       1/3   (BA   26   CR       2/3)   TR  1   CH  1   NT  A       off
+DT         0   (BA   26   CR       2/3)   TR  1   CH  1   NT  G       on   von=41
+DT       1/3   (BA   26   CR         1)   TR  1   CH  1   NT  G       off
+DT         0   (BA   26   CR         1)   TR  1   CH  1   NT  D       off
+DT   133/160   (BA   26   CR         1)   TR  2   CH  1   NT  A--     off
+DT         0   (BA   26   CR         1)   TR  2   CH  1   NT  E-      on   von=55
+DT       1/3   (BA   26   CR     1+1/3)   TR  1   CH  1   NT  D       on   von=27
+DT         0   (BA   26   CR     1+1/3)   TR  1   CH  1   NT  A       on   von=48
+DT       1/3   (BA   26   CR     1+2/3)   TR  1   CH  1   NT  A       off
+DT         0   (BA   26   CR     1+2/3)   TR  1   CH  1   NT  G       on   von=40
+DT       1/3   (BA   26   CR         2)   TR  1   CH  1   NT  G       off
+DT         0   (BA   26   CR         2)   TR  1   CH  1   NT  D       off
+DT         1   (BA   26   CR         2)   TR  2   CH  1   NT  E-      off
+DT         0   (BA   26   CR         2)   TR  2   CH  1   NT  Bb-     on
+DT       1/3   (BA   26   CR     2+1/3)   TR  1   CH  1   NT  D       on   von=27
+DT         0   (BA   26   CR     2+1/3)   TR  1   CH  1   NT  A       on   von=47
+DT       1/3   (BA   26   CR     2+2/3)   TR  1   CH  1   NT  A       off
+DT         0   (BA   26   CR     2+2/3)   TR  1   CH  1   NT  G       on   von=40
+
+DT       1/3   (BA   27   CR         0)   TR  1   CH  1   NT  G       off
+DT         0   (BA   27   CR         0)   TR  1   CH  1   NT  D       off
+DT         1   (BA   27   CR         0)   TR  2   CH  1   NT  Bb-     off
+DT         0   (BA   27   CR         0)   TR  2   CH  1   NT  A--     on   von=66
+DT      3/80   (BA   27   CR      3/80)   TR  2   CH  1   ST &B0 &40 &00
+DT    59/480   (BA   27   CR    77/480)   TR  2   CH  1   ST &B0 &40 &7F
+DT       1/3   (BA   27   CR       1/3)   TR  1   CH  1   NT  Bb      on   von=51
+DT         0   (BA   27   CR       1/3)   TR  1   CH  1   NT  C#      on   von=29
+DT       1/3   (BA   27   CR       2/3)   TR  1   CH  1   NT  Bb      off
+DT         0   (BA   27   CR       2/3)   TR  1   CH  1   NT  A       on   von=46
+DT       1/3   (BA   27   CR         1)   TR  1   CH  1   NT  A       off
+DT         0   (BA   27   CR         1)   TR  1   CH  1   NT  C#      off
+DT   403/480   (BA   27   CR         1)   TR  2   CH  1   NT  A--     off
+DT         0   (BA   27   CR         1)   TR  2   CH  1   NT  E-      on   von=55
+DT       1/3   (BA   27   CR     1+1/3)   TR  1   CH  1   NT  C#      on   von=29
+DT         0   (BA   27   CR     1+1/3)   TR  1   CH  1   NT  Bb      on   von=52
+DT       1/3   (BA   27   CR     1+2/3)   TR  1   CH  1   NT  Bb      off
+DT         0   (BA   27   CR     1+2/3)   TR  1   CH  1   NT  A       on   von=45
+DT       1/3   (BA   27   CR         2)   TR  1   CH  1   NT  A       off
+DT         0   (BA   27   CR         2)   TR  1   CH  1   NT  C#      off
+DT         1   (BA   27   CR         2)   TR  2   CH  1   NT  E-      off
+DT         0   (BA   27   CR         2)   TR  2   CH  1   NT  A-      on
+DT       1/3   (BA   27   CR     2+1/3)   TR  1   CH  1   NT  Bb      on   von=51
+DT         0   (BA   27   CR     2+1/3)   TR  1   CH  1   NT  C#      on   von=29
+DT       1/3   (BA   27   CR     2+2/3)   TR  1   CH  1   NT  Bb      off
+DT         0   (BA   27   CR     2+2/3)   TR  1   CH  1   NT  A       on   von=45
+
+DT       1/3   (BA   28   CR         0)   TR  1   CH  1   NT  A       off
+DT         0   (BA   28   CR         0)   TR  1   CH  1   NT  C#      off
+DT         1   (BA   28   CR         0)   TR  2   CH  1   NT  A-      off
+DT         0   (BA   28   CR         0)   TR  2   CH  1   NT  A--     on   von=61
+DT     7/160   (BA   28   CR     7/160)   TR  2   CH  1   ST &B0 &40 &00
+DT    23/240   (BA   28   CR    67/480)   TR  2   CH  1   ST &B0 &40 &7F
+DT       1/3   (BA   28   CR       1/3)   TR  1   CH  1   NT  A       on   von=48
+DT         0   (BA   28   CR       1/3)   TR  1   CH  1   NT  D       on   von=27
+DT       1/3   (BA   28   CR       2/3)   TR  1   CH  1   NT  A       off
+DT         0   (BA   28   CR       2/3)   TR  1   CH  1   NT  G       on   von=41
+DT       1/3   (BA   28   CR         1)   TR  1   CH  1   NT  G       off
+DT         0   (BA   28   CR         1)   TR  1   CH  1   NT  D       off
+DT   413/480   (BA   28   CR         1)   TR  2   CH  1   NT  A--     off
+DT         0   (BA   28   CR         1)   TR  2   CH  1   NT  E-      on   von=55
+DT       1/3   (BA   28   CR     1+1/3)   TR  1   CH  1   NT  D       on   von=27
+DT         0   (BA   28   CR     1+1/3)   TR  1   CH  1   NT  A       on   von=48
+DT       1/3   (BA   28   CR     1+2/3)   TR  1   CH  1   NT  A       off
+DT         0   (BA   28   CR     1+2/3)   TR  1   CH  1   NT  G       on   von=40
+DT       1/3   (BA   28   CR         2)   TR  1   CH  1   NT  G       off
+DT         0   (BA   28   CR         2)   TR  1   CH  1   NT  D       off
+DT         1   (BA   28   CR         2)   TR  2   CH  1   NT  E-      off
+DT         0   (BA   28   CR         2)   TR  2   CH  1   NT  Bb-     on
+DT       1/3   (BA   28   CR     2+1/3)   TR  1   CH  1   NT  A       on   von=47
+DT         0   (BA   28   CR     2+1/3)   TR  1   CH  1   NT  D       on   von=27
+DT       1/3   (BA   28   CR     2+2/3)   TR  1   CH  1   NT  A       off
+DT         0   (BA   28   CR     2+2/3)   TR  1   CH  1   NT  G       on   von=40
+
+DT       1/3   (BA   29   CR         0)   TR  1   CH  1   NT  G       off
+DT         0   (BA   29   CR         0)   TR  1   CH  1   NT  D       off
+DT         1   (BA   29   CR         0)   TR  2   CH  1   NT  Bb-     off
+DT         0   (BA   29   CR         0)   TR  2   CH  1   NT  A--     on   von=49
+DT      1/32   (BA   29   CR      1/32)   TR  2   CH  1   ST &B0 &40 &00
+DT    19/120   (BA   29   CR    91/480)   TR  2   CH  1   ST &B0 &40 &7F
+DT       1/2   (BA   29   CR       1/2)   TR  1   CH  1   NT  A'      on   von=53
+DT   149/480   (BA   29   CR       1/2)   TR  2   CH  1   NT  A--     off
+DT         0   (BA   29   CR       1/2)   TR  2   CH  1   NT  A-      on   von=45
+DT       1/2   (BA   29   CR         1)   TR  1   CH  1   NT  A'      off
+DT         0   (BA   29   CR         1)   TR  1   CH  1   NT  B'      on   von=56
+DT       1/2   (BA   29   CR         1)   TR  2   CH  1   NT  A-      off
+DT         0   (BA   29   CR         1)   TR  2   CH  1   NT  B-      on   von=47
+DT    19/480   (BA   29   CR  1+19/480)   TR  2   CH  1   ST &B0 &40 &00
+DT    51/160   (BA   29   CR  1+43/120)   TR  2   CH  1   ST &B0 &40 &7F
+DT       1/2   (BA   29   CR     1+1/2)   TR  1   CH  1   NT  B'      off
+DT         0   (BA   29   CR     1+1/2)   TR  1   CH  1   NT  C#''    on   von=57
+DT    17/120   (BA   29   CR     1+1/2)   TR  2   CH  1   NT  B-      off
+DT         0   (BA   29   CR     1+1/2)   TR  2   CH  1   NT  C#      on   von=48
+DT       1/2   (BA   29   CR         2)   TR  1   CH  1   NT  C#''    off
+DT         0   (BA   29   CR         2)   TR  1   CH  1   NT  D''     on   von=59
+DT       1/2   (BA   29   CR         2)   TR  2   CH  1   NT  C#      off
+DT         0   (BA   29   CR         2)   TR  2   CH  1   NT  D       on   von=49
+DT       1/2   (BA   29   CR     2+1/2)   TR  1   CH  1   NT  D''     off
+DT         0   (BA   29   CR     2+1/2)   TR  1   CH  1   NT  E''     on   von=61
+DT       1/2   (BA   29   CR     2+1/2)   TR  2   CH  1   NT  D       off
+DT         0   (BA   29   CR     2+1/2)   TR  2   CH  1   NT  E       on   von=51
+
+DT       1/2   (BA   30   CR         0)   TR  1   CH  1   NT  E''     off
+DT         0   (BA   30   CR         0)   TR  1   CH  1   NT  F''     on   von=62
+DT       1/2   (BA   30   CR         0)   TR  2   CH  1   NT  E       off
+DT         0   (BA   30   CR         0)   TR  2   CH  1   NT  F       on   von=52
+DT    11/480   (BA   30   CR    11/480)   TR  2   CH  1   ST &B0 &40 &00
+DT       1/4   (BA   30   CR   131/480)   TR  2   CH  1   ST &B0 &40 &7F
+DT       3/4   (BA   30   CR       3/4)   TR  1   CH  1   NT  F''     off
+DT         0   (BA   30   CR       3/4)   TR  1   CH  1   NT  E''     on   von=55
+DT   229/480   (BA   30   CR       3/4)   TR  2   CH  1   NT  F       off
+DT         0   (BA   30   CR       3/4)   TR  2   CH  1   NT  E       on   von=48
+DT       1/8   (BA   30   CR       7/8)   TR  1   CH  1   NT  E''     off
+DT         0   (BA   30   CR       7/8)   TR  1   CH  1   NT  F''     on   von=51
+DT       1/8   (BA   30   CR       7/8)   TR  2   CH  1   NT  E       off
+DT         0   (BA   30   CR       7/8)   TR  2   CH  1   NT  F       on   von=45
+DT       1/8   (BA   30   CR         1)   TR  1   CH  1   NT  F''     off
+DT         0   (BA   30   CR         1)   TR  1   CH  1   NT  E''     on   von=61
+DT       1/8   (BA   30   CR         1)   TR  2   CH  1   NT  F       off
+DT         0   (BA   30   CR         1)   TR  2   CH  1   NT  E       on   von=51
+DT      3/80   (BA   30   CR    1+3/80)   TR  2   CH  1   ST &B0 &40 &00
+DT       1/2   (BA   30   CR     1+1/2)   TR  1   CH  1   NT  E''     off
+DT         0   (BA   30   CR     1+1/2)   TR  1   CH  1   NT  D''     on   von=57
+DT     37/80   (BA   30   CR     1+1/2)   TR  2   CH  1   NT  E       off
+DT         0   (BA   30   CR     1+1/2)   TR  2   CH  1   NT  D       on   von=48
+DT   113/480   (BA   30   CR 1+353/480)   TR  2   CH  1   ST &B0 &40 &7F
+DT       1/2   (BA   30   CR         2)   TR  1   CH  1   NT  D''     off
+DT         0   (BA   30   CR         2)   TR  1   CH  1   NT  C''     on   von=56
+DT   127/480   (BA   30   CR         2)   TR  2   CH  1   NT  D       off
+DT         0   (BA   30   CR         2)   TR  2   CH  1   NT  C       on   von=47
+DT       1/2   (BA   30   CR     2+1/2)   TR  1   CH  1   NT  C''     off
+DT         0   (BA   30   CR     2+1/2)   TR  1   CH  1   NT  D''     on   von=59
+DT       1/2   (BA   30   CR     2+1/2)   TR  2   CH  1   NT  C       off
+DT         0   (BA   30   CR     2+1/2)   TR  2   CH  1   NT  D       on   von=49
+
+DT       1/2   (BA   31   CR         0)   TR  1   CH  1   NT  D''     off
+DT         0   (BA   31   CR         0)   TR  1   CH  1   NT  E''     on   von=57
+DT       1/2   (BA   31   CR         0)   TR  2   CH  1   NT  D       off
+DT         0   (BA   31   CR         0)   TR  2   CH  1   NT  E       on   von=45
+DT     7/240   (BA   31   CR     7/240)   TR  2   CH  1   ST &B0 &40 &00
+DT   103/480   (BA   31   CR    39/160)   TR  2   CH  1   ST &B0 &40 &7F
+DT       1/2   (BA   31   CR       1/2)   TR  1   CH  1   NT  E''     off
+DT         0   (BA   31   CR       1/2)   TR  1   CH  1   NT  F''     on   von=59
+DT    41/160   (BA   31   CR       1/2)   TR  2   CH  1   NT  E       off
+DT         0   (BA   31   CR       1/2)   TR  2   CH  1   NT  F       on   von=47
+DT       1/2   (BA   31   CR         1)   TR  1   CH  1   NT  F''     off
+DT         0   (BA   31   CR         1)   TR  1   CH  1   NT  G''     on   von=61
+DT       1/2   (BA   31   CR         1)   TR  2   CH  1   NT  F       off
+DT         0   (BA   31   CR         1)   TR  2   CH  1   NT  G       on   von=49
+DT     7/160   (BA   31   CR   1+7/160)   TR  2   CH  1   ST &B0 &40 &00
+DT       1/5   (BA   31   CR  1+39/160)   TR  2   CH  1   ST &B0 &40 &7F
+DT       1/2   (BA   31   CR     1+1/2)   TR  1   CH  1   NT  G''     off
+DT         0   (BA   31   CR     1+1/2)   TR  1   CH  1   NT  E''     on
+DT    41/160   (BA   31   CR     1+1/2)   TR  2   CH  1   NT  G       off
+DT         0   (BA   31   CR     1+1/2)   TR  2   CH  1   NT  E       on   von=48
+DT       1/2   (BA   31   CR         2)   TR  1   CH  1   NT  E''     off
+DT         0   (BA   31   CR         2)   TR  1   CH  1   NT  F''     on   von=59
+DT       1/2   (BA   31   CR         2)   TR  2   CH  1   NT  E       off
+DT         0   (BA   31   CR         2)   TR  2   CH  1   NT  F       on   von=47
+DT      1/32   (BA   31   CR    2+1/32)   TR  2   CH  1   ST &B0 &40 &00
+DT      7/48   (BA   31   CR   2+17/96)   TR  2   CH  1   ST &B0 &40 &7F
+DT       1/2   (BA   31   CR     2+1/2)   TR  1   CH  1   NT  F''     off
+DT         0   (BA   31   CR     2+1/2)   TR  1   CH  1   NT  E''     on   von=56
+DT     31/96   (BA   31   CR     2+1/2)   TR  2   CH  1   NT  F       off
+DT         0   (BA   31   CR     2+1/2)   TR  2   CH  1   NT  E       on   von=44
+DT       1/4   (BA   31   CR     2+3/4)   TR  1   CH  1   NT  E''     off
+DT         0   (BA   31   CR     2+3/4)   TR  1   CH  1   NT  D''     on   von=55
+DT       1/4   (BA   31   CR     2+3/4)   TR  2   CH  1   NT  E       off
+DT         0   (BA   31   CR     2+3/4)   TR  2   CH  1   NT  D       on   von=47
+DT       1/8   (BA   31   CR     2+7/8)   TR  1   CH  1   NT  D''     off
+DT         0   (BA   31   CR     2+7/8)   TR  1   CH  1   NT  E''     on   von=51
+DT       1/8   (BA   31   CR     2+7/8)   TR  2   CH  1   NT  D       off
+DT         0   (BA   31   CR     2+7/8)   TR  2   CH  1   NT  E       on   von=44
+
+DT       1/8   (BA   32   CR         0)   TR  1   CH  1   NT  E''     off
+DT         0   (BA   32   CR         0)   TR  1   CH  1   NT  D''     on   von=61
+DT       1/8   (BA   32   CR         0)   TR  2   CH  1   NT  E       off
+DT         0   (BA   32   CR         0)   TR  2   CH  1   NT  D       on   von=49
+DT      1/15   (BA   32   CR      1/15)   TR  2   CH  1   ST &B0 &40 &00
+DT   233/480   (BA   32   CR     53/96)   TR  2   CH  1   ST &B0 &40 &7F
+DT         1   (BA   32   CR         1)   TR  1   CH  1   NT  D''     off
+DT         0   (BA   32   CR         1)   TR  1   CH  1   NT  C''     on   von=56
+DT     43/96   (BA   32   CR         1)   TR  2   CH  1   NT  D       off
+DT         0   (BA   32   CR         1)   TR  2   CH  1   NT  C       on   von=44
+DT     7/240   (BA   32   CR   1+7/240)   TR  2   CH  1   ST &B0 &40 &00
+DT   113/240   (BA   32   CR     1+1/2)   TR  2   CH  1   ST &B0 &40 &7F
+DT         1   (BA   32   CR         2)   TR  1   CH  1   NT  C''     off
+DT         0   (BA   32   CR         2)   TR  1   CH  1   NT  Bb'     on   von=52
+DT       1/2   (BA   32   CR         2)   TR  2   CH  1   NT  C       off
+DT         0   (BA   32   CR         2)   TR  2   CH  1   NT  Bb-     on   von=41
+DT    19/480   (BA   32   CR  2+19/480)   TR  2   CH  1   ST &B0 &40 &00
+DT    47/160   (BA   32   CR     2+1/3)   TR  2   CH  1   ST &B0 &40 &7F
+
+DT         1   (BA   33   CR         0)   TR  1   CH  1   NT  Bb'     off
+DT         0   (BA   33   CR         0)   TR  1   CH  1   NT  A'      on   von=57
+DT       2/3   (BA   33   CR         0)   TR  2   CH  1   NT  Bb-     off
+DT         0   (BA   33   CR         0)   TR  2   CH  1   NT  A-      on   von=48
+DT    11/240   (BA   33   CR    11/240)   TR  2   CH  1   ST &B0 &40 &00
+DT   109/480   (BA   33   CR   131/480)   TR  2   CH  1   ST &B0 &40 &7F
+DT       1/2   (BA   33   CR       1/2)   TR  1   CH  1   NT  A'      off
+DT         0   (BA   33   CR       1/2)   TR  1   CH  1   NT  B'      on   von=58
+DT   109/480   (BA   33   CR       1/2)   TR  2   CH  1   NT  A-      off
+DT         0   (BA   33   CR       1/2)   TR  2   CH  1   NT  B-      on   von=49
+DT       1/2   (BA   33   CR         1)   TR  1   CH  1   NT  B'      off
+DT         0   (BA   33   CR         1)   TR  1   CH  1   NT  C#''    on   von=60
+DT       1/2   (BA   33   CR         1)   TR  2   CH  1   NT  B-      off
+DT         0   (BA   33   CR         1)   TR  2   CH  1   NT  C#      on   von=50
+DT      3/80   (BA   33   CR    1+3/80)   TR  2   CH  1   ST &B0 &40 &00
+DT       1/5   (BA   33   CR   1+19/80)   TR  2   CH  1   ST &B0 &40 &7F
+DT       1/2   (BA   33   CR     1+1/2)   TR  1   CH  1   NT  C#''    off
+DT         0   (BA   33   CR     1+1/2)   TR  1   CH  1   NT  D''     on   von=61
+DT     21/80   (BA   33   CR     1+1/2)   TR  2   CH  1   NT  C#      off
+DT         0   (BA   33   CR     1+1/2)   TR  2   CH  1   NT  D       on
+DT       1/2   (BA   33   CR         2)   TR  1   CH  1   NT  D''     off
+DT         0   (BA   33   CR         2)   TR  1   CH  1   NT  E''     on   von=63
+DT       1/2   (BA   33   CR         2)   TR  2   CH  1   NT  D       off
+DT         0   (BA   33   CR         2)   TR  2   CH  1   NT  E       on   von=51
+DT       1/2   (BA   33   CR     2+1/2)   TR  1   CH  1   NT  E''     off
+DT         0   (BA   33   CR     2+1/2)   TR  1   CH  1   NT  F''     on   von=64
+DT       1/2   (BA   33   CR     2+1/2)   TR  2   CH  1   NT  E       off
+DT         0   (BA   33   CR     2+1/2)   TR  2   CH  1   NT  F       on   von=52
+
+DT       1/2   (BA   34   CR         0)   TR  1   CH  1   NT  F''     off
+DT         0   (BA   34   CR         0)   TR  1   CH  1   NT  G''     on   von=71
+DT       1/2   (BA   34   CR         0)   TR  2   CH  1   NT  F       off
+DT         0   (BA   34   CR         0)   TR  2   CH  1   NT  G       on   von=53
+DT     1/160   (BA   34   CR     1/160)   TR  2   CH  1   ST &B0 &40 &00
+DT   107/480   (BA   34   CR     11/48)   TR  2   CH  1   ST &B0 &40 &7F
+DT       1/2   (BA   34   CR       1/2)   TR  1   CH  1   NT  G''     off
+DT         0   (BA   34   CR       1/2)   TR  1   CH  1   NT  A''     on   von=75
+DT     13/48   (BA   34   CR       1/2)   TR  2   CH  1   NT  G       off
+DT         0   (BA   34   CR       1/2)   TR  2   CH  1   NT  A       on   von=57
+DT       1/4   (BA   34   CR       3/4)   TR  1   CH  1   NT  A''     off
+DT         0   (BA   34   CR       3/4)   TR  1   CH  1   NT  Bb''    on   von=73
+DT       1/4   (BA   34   CR       3/4)   TR  2   CH  1   NT  A       off
+DT         0   (BA   34   CR       3/4)   TR  2   CH  1   NT  Bb      on   von=56
+DT       1/8   (BA   34   CR       7/8)   TR  1   CH  1   NT  Bb''    off
+DT         0   (BA   34   CR       7/8)   TR  1   CH  1   NT  C'''    on   von=71
+DT       1/8   (BA   34   CR       7/8)   TR  2   CH  1   NT  Bb      off
+DT         0   (BA   34   CR       7/8)   TR  2   CH  1   NT  C'      on   von=52
+DT       1/8   (BA   34   CR         1)   TR  1   CH  1   NT  C'''    off
+DT         0   (BA   34   CR         1)   TR  1   CH  1   NT  Bb''    on   von=79
+DT       1/8   (BA   34   CR         1)   TR  2   CH  1   NT  C'      off
+DT         0   (BA   34   CR         1)   TR  2   CH  1   NT  Bb      on   von=63
+DT     7/480   (BA   34   CR   1+7/480)   TR  2   CH  1   ST &B0 &40 &00
+DT    67/120   (BA   34   CR   1+55/96)   TR  2   CH  1   ST &B0 &40 &7F
+DT         1   (BA   34   CR         2)   TR  1   CH  1   NT  Bb''    off
+DT         0   (BA   34   CR         2)   TR  1   CH  1   NT  A''     on   von=76
+DT     41/96   (BA   34   CR         2)   TR  2   CH  1   NT  Bb      off
+DT         0   (BA   34   CR         2)   TR  2   CH  1   NT  A       on   von=58
+DT       1/2   (BA   34   CR     2+1/2)   TR  1   CH  1   NT  A''     off
+DT         0   (BA   34   CR     2+1/2)   TR  1   CH  1   NT  G''     on   von=74
+DT       1/2   (BA   34   CR     2+1/2)   TR  2   CH  1   NT  A       off
+DT         0   (BA   34   CR     2+1/2)   TR  2   CH  1   NT  G       on   von=56
+
+DT       1/2   (BA   35   CR         0)   TR  1   CH  1   NT  G''     off
+DT         0   (BA   35   CR         0)   TR  1   CH  1   NT  A''     on   von=78
+DT       1/2   (BA   35   CR         0)   TR  2   CH  1   NT  G       off
+DT         0   (BA   35   CR         0)   TR  2   CH  1   NT  A       on   von=58
+DT      1/48   (BA   35   CR      1/48)   TR  2   CH  1   ST &B0 &40 &00
+DT     11/48   (BA   35   CR       1/4)   TR  2   CH  1   ST &B0 &40 &7F
+DT         1   (BA   35   CR         1)   TR  1   CH  1   NT  A''     off
+DT         0   (BA   35   CR         1)   TR  1   CH  1   NT  A''     on   von=79
+DT       3/4   (BA   35   CR         1)   TR  2   CH  1   NT  A       off
+DT         0   (BA   35   CR         1)   TR  2   CH  1   NT  A       on   von=60
+DT    11/240   (BA   35   CR  1+11/240)   TR  2   CH  1   ST &B0 &40 &00
+DT   109/480   (BA   35   CR 1+131/480)   TR  2   CH  1   ST &B0 &40 &7F
+DT       1/2   (BA   35   CR     1+1/2)   TR  1   CH  1   NT  A''     off
+DT         0   (BA   35   CR     1+1/2)   TR  1   CH  1   NT  G''     on   von=76
+DT   109/480   (BA   35   CR     1+1/2)   TR  2   CH  1   NT  A       off
+DT         0   (BA   35   CR     1+1/2)   TR  2   CH  1   NT  G       on   von=58
+DT       1/2   (BA   35   CR         2)   TR  1   CH  1   NT  G''     off
+DT         0   (BA   35   CR         2)   TR  1   CH  1   NT  Bb''    on   von=83
+DT       1/2   (BA   35   CR         2)   TR  2   CH  1   NT  G       off
+DT         0   (BA   35   CR         2)   TR  2   CH  1   NT  Bb      on   von=62
+DT     7/240   (BA   35   CR   2+7/240)   TR  2   CH  1   ST &B0 &40 &00
+DT    33/160   (BA   35   CR 2+113/480)   TR  2   CH  1   ST &B0 &40 &7F
+DT       1/2   (BA   35   CR     2+1/2)   TR  1   CH  1   NT  Bb''    off
+DT         0   (BA   35   CR     2+1/2)   TR  1   CH  1   NT  A''     on   von=78
+DT   127/480   (BA   35   CR     2+1/2)   TR  2   CH  1   NT  Bb      off
+DT         0   (BA   35   CR     2+1/2)   TR  2   CH  1   NT  A       on   von=58
+DT       1/4   (BA   35   CR     2+3/4)   TR  1   CH  1   NT  A''     off
+DT         0   (BA   35   CR     2+3/4)   TR  1   CH  1   NT  F''     on   von=64
+DT       1/4   (BA   35   CR     2+3/4)   TR  2   CH  1   NT  A       off
+DT         0   (BA   35   CR     2+3/4)   TR  2   CH  1   NT  F       on   von=45
+DT       1/8   (BA   35   CR     2+7/8)   TR  1   CH  1   NT  F''     off
+DT         0   (BA   35   CR     2+7/8)   TR  1   CH  1   NT  G''     on   von=56
+DT       1/8   (BA   35   CR     2+7/8)   TR  2   CH  1   NT  F       off
+DT         0   (BA   35   CR     2+7/8)   TR  2   CH  1   NT  G       on   von=38
+
+DT       1/8   (BA   36   CR         0)   TR  1   CH  1   NT  G''     off
+DT         0   (BA   36   CR         0)   TR  1   CH  1   NT  F''     on   von=72
+DT       1/8   (BA   36   CR         0)   TR  2   CH  1   NT  G       off
+DT         0   (BA   36   CR         0)   TR  2   CH  1   NT  F       on   von=49
+DT      1/48   (BA   36   CR      1/48)   TR  2   CH  1   ST &B0 &40 &00
+DT   139/480   (BA   36   CR   149/480)   TR  2   CH  1   ST &B0 &40 &7F
+DT       1/2   (BA   36   CR       1/2)   TR  1   CH  1   NT  F''     off
+DT         0   (BA   36   CR       1/2)   TR  1   CH  1   NT  Eb''    on   von=64
+DT    91/480   (BA   36   CR       1/2)   TR  2   CH  1   NT  F       off
+DT         0   (BA   36   CR       1/2)   TR  2   CH  1   NT  Eb      on
+DT       1/2   (BA   36   CR         1)   TR  1   CH  1   NT  Eb''    off
+DT         0   (BA   36   CR         1)   TR  1   CH  1   NT  D''     on   von=69
+DT       1/2   (BA   36   CR         1)   TR  2   CH  1   NT  Eb      off
+DT         0   (BA   36   CR         1)   TR  2   CH  1   NT  D       on   von=55
+DT      1/30   (BA   36   CR    1+1/30)   TR  2   CH  1   ST &B0 &40 &00
+DT   133/480   (BA   36   CR 1+149/480)   TR  2   CH  1   ST &B0 &40 &7F
+DT       1/2   (BA   36   CR     1+1/2)   TR  1   CH  1   NT  D''     off
+DT         0   (BA   36   CR     1+1/2)   TR  1   CH  1   NT  E''     on   von=61
+DT    91/480   (BA   36   CR     1+1/2)   TR  2   CH  1   NT  D       off
+DT         0   (BA   36   CR     1+1/2)   TR  2   CH  1   NT  E       on   von=43
+DT       1/2   (BA   36   CR         2)   TR  1   CH  1   NT  E''     off
+DT         0   (BA   36   CR         2)   TR  1   CH  1   NT  C''     on   von=62
+DT       1/2   (BA   36   CR         2)   TR  2   CH  1   NT  E       off
+DT         0   (BA   36   CR         2)   TR  2   CH  1   NT  C       on   von=46
+DT     7/480   (BA   36   CR   2+7/480)   TR  2   CH  1   ST &B0 &40 &00
+DT     13/48   (BA   36   CR 2+137/480)   TR  2   CH  1   ST &B0 &40 &7F
+DT       1/2   (BA   36   CR     2+1/2)   TR  1   CH  1   NT  C''     off
+DT         0   (BA   36   CR     2+1/2)   TR  1   CH  1   NT  Bb'     on   von=51
+DT   103/480   (BA   36   CR     2+1/2)   TR  2   CH  1   NT  C       off
+DT         0   (BA   36   CR     2+1/2)   TR  2   CH  1   NT  Bb-     on   von=51
+
+DT       1/2   (BA   37   CR         0)   TR  1   CH  1   NT  Bb'     off
+DT       1/2   (BA   37   CR         0)   TR  2   CH  1   NT  Bb-     off
+DT         0   (BA   37   CR         0)   TR  2   CH  1   NT  A--     on   von=61
+DT     7/240   (BA   37   CR     7/240)   TR  2   CH  1   ST &B0 &40 &00
+DT    89/480   (BA   37   CR   103/480)   TR  2   CH  1   ST &B0 &40 &7F
+DT       1/3   (BA   37   CR       1/3)   TR  1   CH  1   NT  C#      on   von=29
+DT         0   (BA   37   CR       1/3)   TR  1   CH  1   NT  Bb      on   von=51
+DT       1/3   (BA   37   CR       2/3)   TR  1   CH  1   NT  Bb      off
+DT         0   (BA   37   CR       2/3)   TR  1   CH  1   NT  A       on   von=46
+DT       1/3   (BA   37   CR         1)   TR  1   CH  1   NT  A       off
+DT         0   (BA   37   CR         1)   TR  1   CH  1   NT  C#      off
+DT   377/480   (BA   37   CR         1)   TR  2   CH  1   NT  A--     off
+DT         0   (BA   37   CR         1)   TR  2   CH  1   NT  E-      on   von=55
+DT       1/3   (BA   37   CR     1+1/3)   TR  1   CH  1   NT  Bb      on   von=52
+DT         0   (BA   37   CR     1+1/3)   TR  1   CH  1   NT  C#      on   von=29
+DT       1/3   (BA   37   CR     1+2/3)   TR  1   CH  1   NT  Bb      off
+DT         0   (BA   37   CR     1+2/3)   TR  1   CH  1   NT  A       on   von=45
+DT       1/3   (BA   37   CR         2)   TR  1   CH  1   NT  A       off
+DT         0   (BA   37   CR         2)   TR  1   CH  1   NT  C#      off
+DT         1   (BA   37   CR         2)   TR  2   CH  1   NT  E-      off
+DT         0   (BA   37   CR         2)   TR  2   CH  1   NT  A-      on
+DT       1/3   (BA   37   CR     2+1/3)   TR  1   CH  1   NT  C#      on   von=29
+DT         0   (BA   37   CR     2+1/3)   TR  1   CH  1   NT  Bb      on   von=51
+DT       1/3   (BA   37   CR     2+2/3)   TR  1   CH  1   NT  Bb      off
+DT         0   (BA   37   CR     2+2/3)   TR  1   CH  1   NT  A       on   von=45
+
+DT       1/3   (BA   38   CR         0)   TR  1   CH  1   NT  A       off
+DT         0   (BA   38   CR         0)   TR  1   CH  1   NT  C#      off
+DT         1   (BA   38   CR         0)   TR  2   CH  1   NT  A-      off
+DT         0   (BA   38   CR         0)   TR  2   CH  1   NT  A--     on   von=62
+DT     7/160   (BA   38   CR     7/160)   TR  2   CH  1   ST &B0 &40 &00
+DT    67/480   (BA   38   CR     11/60)   TR  2   CH  1   ST &B0 &40 &7F
+DT       1/3   (BA   38   CR       1/3)   TR  1   CH  1   NT  A       on   von=48
+DT         0   (BA   38   CR       1/3)   TR  1   CH  1   NT  D       on   von=27
+DT       1/3   (BA   38   CR       2/3)   TR  1   CH  1   NT  A       off
+DT         0   (BA   38   CR       2/3)   TR  1   CH  1   NT  G       on   von=41
+DT       1/3   (BA   38   CR         1)   TR  1   CH  1   NT  G       off
+DT         0   (BA   38   CR         1)   TR  1   CH  1   NT  D       off
+DT     49/60   (BA   38   CR         1)   TR  2   CH  1   NT  A--     off
+DT         0   (BA   38   CR         1)   TR  2   CH  1   NT  E-      on   von=55
+DT       1/3   (BA   38   CR     1+1/3)   TR  1   CH  1   NT  A       on   von=48
+DT         0   (BA   38   CR     1+1/3)   TR  1   CH  1   NT  D       on   von=27
+DT       1/3   (BA   38   CR     1+2/3)   TR  1   CH  1   NT  A       off
+DT         0   (BA   38   CR     1+2/3)   TR  1   CH  1   NT  G       on   von=40
+DT       1/3   (BA   38   CR         2)   TR  1   CH  1   NT  G       off
+DT         0   (BA   38   CR         2)   TR  1   CH  1   NT  D       off
+DT         1   (BA   38   CR         2)   TR  2   CH  1   NT  E-      off
+DT         0   (BA   38   CR         2)   TR  2   CH  1   NT  Bb-     on
+DT       1/3   (BA   38   CR     2+1/3)   TR  1   CH  1   NT  A       on   von=47
+DT         0   (BA   38   CR     2+1/3)   TR  1   CH  1   NT  D       on   von=27
+DT       1/3   (BA   38   CR     2+2/3)   TR  1   CH  1   NT  A       off
+DT         0   (BA   38   CR     2+2/3)   TR  1   CH  1   NT  G       on   von=40
+
+DT       1/3   (BA   39   CR         0)   TR  1   CH  1   NT  G       off
+DT         0   (BA   39   CR         0)   TR  1   CH  1   NT  D       off
+DT         1   (BA   39   CR         0)   TR  2   CH  1   NT  Bb-     off
+DT         0   (BA   39   CR         0)   TR  2   CH  1   NT  A--     on   von=62
+DT    23/480   (BA   39   CR    23/480)   TR  2   CH  1   ST &B0 &40 &00
+DT       1/8   (BA   39   CR    83/480)   TR  2   CH  1   ST &B0 &40 &7F
+DT       1/3   (BA   39   CR       1/3)   TR  1   CH  1   NT  C#      on   von=29
+DT         0   (BA   39   CR       1/3)   TR  1   CH  1   NT  Bb      on   von=51
+DT       1/3   (BA   39   CR       2/3)   TR  1   CH  1   NT  Bb      off
+DT         0   (BA   39   CR       2/3)   TR  1   CH  1   NT  A       on   von=46
+DT       1/3   (BA   39   CR         1)   TR  1   CH  1   NT  A       off
+DT         0   (BA   39   CR         1)   TR  1   CH  1   NT  C#      off
+DT   397/480   (BA   39   CR         1)   TR  2   CH  1   NT  A--     off
+DT         0   (BA   39   CR         1)   TR  2   CH  1   NT  E-      on   von=52
+DT       1/3   (BA   39   CR     1+1/3)   TR  1   CH  1   NT  Bb      on   von=52
+DT         0   (BA   39   CR     1+1/3)   TR  1   CH  1   NT  C#      on   von=29
+DT       1/3   (BA   39   CR     1+2/3)   TR  1   CH  1   NT  Bb      off
+DT         0   (BA   39   CR     1+2/3)   TR  1   CH  1   NT  A       on   von=45
+DT       1/3   (BA   39   CR         2)   TR  1   CH  1   NT  A       off
+DT         0   (BA   39   CR         2)   TR  1   CH  1   NT  C#      off
+DT         1   (BA   39   CR         2)   TR  2   CH  1   NT  E-      off
+DT         0   (BA   39   CR         2)   TR  2   CH  1   NT  A-      on
+DT       1/3   (BA   39   CR     2+1/3)   TR  1   CH  1   NT  Bb      on   von=51
+DT         0   (BA   39   CR     2+1/3)   TR  1   CH  1   NT  C#      on   von=29
+DT       1/3   (BA   39   CR     2+2/3)   TR  1   CH  1   NT  Bb      off
+DT         0   (BA   39   CR     2+2/3)   TR  1   CH  1   NT  A       on   von=45
+
+DT       1/3   (BA   40   CR         0)   TR  1   CH  1   NT  A       off
+DT         0   (BA   40   CR         0)   TR  1   CH  1   NT  C#      off
+DT         1   (BA   40   CR         0)   TR  2   CH  1   NT  A-      off
+DT         0   (BA   40   CR         0)   TR  2   CH  1   NT  A--     on   von=63
+DT      1/24   (BA   40   CR      1/24)   TR  2   CH  1   ST &B0 &40 &00
+DT      9/80   (BA   40   CR    37/240)   TR  2   CH  1   ST &B0 &40 &7F
+DT       1/3   (BA   40   CR       1/3)   TR  1   CH  1   NT  Bb      on   von=48
+DT         0   (BA   40   CR       1/3)   TR  1   CH  1   NT  D       on   von=27
+DT       1/3   (BA   40   CR       2/3)   TR  1   CH  1   NT  Bb      off
+DT         0   (BA   40   CR       2/3)   TR  1   CH  1   NT  A       on   von=41
+DT       1/3   (BA   40   CR         1)   TR  1   CH  1   NT  A       off
+DT         0   (BA   40   CR         1)   TR  1   CH  1   NT  D       off
+DT   203/240   (BA   40   CR         1)   TR  2   CH  1   NT  A--     off
+DT         0   (BA   40   CR         1)   TR  2   CH  1   NT  E-      on   von=55
+DT       1/3   (BA   40   CR     1+1/3)   TR  1   CH  1   NT  D       on   von=27
+DT         0   (BA   40   CR     1+1/3)   TR  1   CH  1   NT  A       on   von=48
+DT       1/3   (BA   40   CR     1+2/3)   TR  1   CH  1   NT  A       off
+DT         0   (BA   40   CR     1+2/3)   TR  1   CH  1   NT  G       on   von=40
+DT       1/3   (BA   40   CR         2)   TR  1   CH  1   NT  G       off
+DT         0   (BA   40   CR         2)   TR  1   CH  1   NT  D       off
+DT         1   (BA   40   CR         2)   TR  2   CH  1   NT  E-      off
+DT         0   (BA   40   CR         2)   TR  2   CH  1   NT  Bb-     on   von=54
+DT       1/3   (BA   40   CR     2+1/3)   TR  1   CH  1   NT  G       on   von=47
+DT         0   (BA   40   CR     2+1/3)   TR  1   CH  1   NT  D       on   von=27
+DT       1/3   (BA   40   CR     2+2/3)   TR  1   CH  1   NT  G       off
+DT         0   (BA   40   CR     2+2/3)   TR  1   CH  1   NT  E       on   von=40
+
+DT       1/3   (BA   41   CR         0)   TR  1   CH  1   NT  E       off
+DT         0   (BA   41   CR         0)   TR  1   CH  1   NT  D       off
+DT         1   (BA   41   CR         0)   TR  2   CH  1   NT  Bb-     off
+DT         0   (BA   41   CR         0)   TR  2   CH  1   NT  A--     on   von=67
+DT    23/480   (BA   41   CR    23/480)   TR  2   CH  1   ST &B0 &40 &00
+DT    37/480   (BA   41   CR       1/8)   TR  2   CH  1   ST &B0 &40 &7F
+DT       1/3   (BA   41   CR       1/3)   TR  1   CH  1   NT  C#      on   von=30
+DT         0   (BA   41   CR       1/3)   TR  1   CH  1   NT  Bb      on   von=53
+DT       1/3   (BA   41   CR       2/3)   TR  1   CH  1   NT  Bb      off
+DT         0   (BA   41   CR       2/3)   TR  1   CH  1   NT  A       on   von=48
+DT       1/3   (BA   41   CR         1)   TR  1   CH  1   NT  A       off
+DT         0   (BA   41   CR         1)   TR  1   CH  1   NT  C#      off
+DT       7/8   (BA   41   CR         1)   TR  2   CH  1   NT  A--     off
+DT         0   (BA   41   CR         1)   TR  2   CH  1   NT  E-      on   von=57
+DT       1/3   (BA   41   CR     1+1/3)   TR  1   CH  1   NT  Bb      on   von=55
+DT         0   (BA   41   CR     1+1/3)   TR  1   CH  1   NT  C#      on   von=31
+DT       1/3   (BA   41   CR     1+2/3)   TR  1   CH  1   NT  Bb      off
+DT         0   (BA   41   CR     1+2/3)   TR  1   CH  1   NT  A       on   von=48
+DT       1/3   (BA   41   CR         2)   TR  1   CH  1   NT  A       off
+DT         0   (BA   41   CR         2)   TR  1   CH  1   NT  C#      off
+DT         1   (BA   41   CR         2)   TR  2   CH  1   NT  E-      off
+DT         0   (BA   41   CR         2)   TR  2   CH  1   NT  A-      on   von=58
+DT       1/3   (BA   41   CR     2+1/3)   TR  1   CH  1   NT  C#      on   von=31
+DT         0   (BA   41   CR     2+1/3)   TR  1   CH  1   NT  Bb      on   von=56
+DT       1/3   (BA   41   CR     2+2/3)   TR  1   CH  1   NT  Bb      off
+DT         0   (BA   41   CR     2+2/3)   TR  1   CH  1   NT  A       on   von=49
+
+DT       1/3   (BA   42   CR         0)   TR  1   CH  1   NT  A       off
+DT         0   (BA   42   CR         0)   TR  1   CH  1   NT  C#      off
+DT         1   (BA   42   CR         0)   TR  2   CH  1   NT  A-      off
+DT         0   (BA   42   CR         0)   TR  2   CH  1   NT  F--     on   von=65
+DT     7/160   (BA   42   CR     7/160)   TR  2   CH  1   ST &B0 &40 &00
+DT    13/160   (BA   42   CR       1/8)   TR  2   CH  1   ST &B0 &40 &7F
+DT       1/3   (BA   42   CR       1/3)   TR  1   CH  1   NT  G       on   von=53
+DT         0   (BA   42   CR       1/3)   TR  1   CH  1   NT  A-      on   von=30
+DT       1/3   (BA   42   CR       2/3)   TR  1   CH  1   NT  G       off
+DT         0   (BA   42   CR       2/3)   TR  1   CH  1   NT  F       on   von=46
+DT       1/3   (BA   42   CR         1)   TR  1   CH  1   NT  F       off
+DT         0   (BA   42   CR         1)   TR  1   CH  1   NT  A-      off
+DT       7/8   (BA   42   CR         1)   TR  2   CH  1   NT  F--     off
+DT         0   (BA   42   CR         1)   TR  2   CH  1   NT  C-      on   von=51
+DT       1/3   (BA   42   CR     1+1/3)   TR  1   CH  1   NT  G       on   von=54
+DT         0   (BA   42   CR     1+1/3)   TR  1   CH  1   NT  A-      on   von=30
+DT       1/3   (BA   42   CR     1+2/3)   TR  1   CH  1   NT  G       off
+DT         0   (BA   42   CR     1+2/3)   TR  1   CH  1   NT  F       on   von=46
+DT       1/3   (BA   42   CR         2)   TR  1   CH  1   NT  F       off
+DT         0   (BA   42   CR         2)   TR  1   CH  1   NT  A-      off
+DT         1   (BA   42   CR         2)   TR  2   CH  1   NT  C-      off
+DT         0   (BA   42   CR         2)   TR  2   CH  1   NT  A-      on   von=69
+DT      5/16   (BA   42   CR    2+5/16)   TR  2   CH  1   NT  A-      off
+DT       1/3   (BA   42   CR     2+1/3)   TR  1   CH  1   NT  G       on   von=54
+DT         0   (BA   42   CR     2+1/3)   TR  1   CH  1   NT  A-      on   von=31
+DT       1/3   (BA   42   CR     2+2/3)   TR  1   CH  1   NT  G       off
+DT         0   (BA   42   CR     2+2/3)   TR  1   CH  1   NT  F       on   von=46
+
+DT       1/3   (BA   43   CR         0)   TR  1   CH  1   NT  F       off
+DT         0   (BA   43   CR         0)   TR  1   CH  1   NT  A-      off
+DT     11/16   (BA   43   CR         0)   TR  2   CH  1   NT  C-      on   von=74
+DT     7/160   (BA   43   CR     7/160)   TR  2   CH  1   ST &B0 &40 &00
+DT    19/160   (BA   43   CR     13/80)   TR  2   CH  1   ST &B0 &40 &7F
+DT       1/3   (BA   43   CR       1/3)   TR  1   CH  1   NT  C       on   von=32
+DT         0   (BA   43   CR       1/3)   TR  1   CH  1   NT  F       on   von=57
+DT       1/3   (BA   43   CR       2/3)   TR  1   CH  1   NT  F       off
+DT         0   (BA   43   CR       2/3)   TR  1   CH  1   NT  E       on   von=48
+DT       1/3   (BA   43   CR         1)   TR  1   CH  1   NT  E       off
+DT         0   (BA   43   CR         1)   TR  1   CH  1   NT  C       off
+DT     67/80   (BA   43   CR         1)   TR  2   CH  1   NT  C-      off
+DT         0   (BA   43   CR         1)   TR  2   CH  1   NT  G-      on   von=73
+DT       1/3   (BA   43   CR     1+1/3)   TR  1   CH  1   NT  C       on   von=32
+DT         0   (BA   43   CR     1+1/3)   TR  1   CH  1   NT  F       on   von=58
+DT       1/3   (BA   43   CR     1+2/3)   TR  1   CH  1   NT  F       off
+DT         0   (BA   43   CR     1+2/3)   TR  1   CH  1   NT  E       on   von=48
+DT       1/3   (BA   43   CR         2)   TR  1   CH  1   NT  E       off
+DT         0   (BA   43   CR         2)   TR  1   CH  1   NT  C       off
+DT         1   (BA   43   CR         2)   TR  2   CH  1   NT  G-      off
+DT         0   (BA   43   CR         2)   TR  2   CH  1   NT  C       on   von=69
+DT      5/16   (BA   43   CR    2+5/16)   TR  2   CH  1   NT  C       off
+DT       1/3   (BA   43   CR     2+1/3)   TR  1   CH  1   NT  C       on   von=33
+DT         0   (BA   43   CR     2+1/3)   TR  1   CH  1   NT  F       on   von=57
+DT       1/3   (BA   43   CR     2+2/3)   TR  1   CH  1   NT  F       off
+DT         0   (BA   43   CR     2+2/3)   TR  1   CH  1   NT  E       on   von=49
+
+DT       1/3   (BA   44   CR         0)   TR  1   CH  1   NT  E       off
+DT         0   (BA   44   CR         0)   TR  1   CH  1   NT  C       off
+DT     11/16   (BA   44   CR         0)   TR  2   CH  1   NT  G-      on   von=66
+DT      3/80   (BA   44   CR      3/80)   TR  2   CH  1   ST &B0 &40 &00
+DT    21/160   (BA   44   CR    27/160)   TR  2   CH  1   ST &B0 &40 &7F
+DT    13/160   (BA   44   CR       1/4)   TR  2   CH  1   NT  G-      off
+DT       1/3   (BA   44   CR       1/3)   TR  1   CH  1   NT  E       on   von=54
+DT         0   (BA   44   CR       1/3)   TR  1   CH  1   NT  Bb-     on   von=30
+DT       1/3   (BA   44   CR       2/3)   TR  1   CH  1   NT  E       off
+DT         0   (BA   44   CR       2/3)   TR  1   CH  1   NT  D       on   von=45
+DT       1/3   (BA   44   CR         1)   TR  1   CH  1   NT  D       off
+DT         0   (BA   44   CR         1)   TR  1   CH  1   NT  Bb-     off
+DT       3/4   (BA   44   CR         1)   TR  2   CH  1   NT  A-      on   von=59
+DT       1/4   (BA   44   CR     1+1/4)   TR  2   CH  1   NT  A-      off
+DT       1/3   (BA   44   CR     1+1/3)   TR  1   CH  1   NT  Bb-     on   von=29
+DT         0   (BA   44   CR     1+1/3)   TR  1   CH  1   NT  E       on   von=52
+DT       1/3   (BA   44   CR     1+2/3)   TR  1   CH  1   NT  E       off
+DT         0   (BA   44   CR     1+2/3)   TR  1   CH  1   NT  D       on   von=42
+DT       5/8   (BA   44   CR     1+7/8)   TR  2   CH  1   NT  C       on   von=55
+DT       1/3   (BA   44   CR         2)   TR  1   CH  1   NT  D       off
+DT         0   (BA   44   CR         2)   TR  1   CH  1   NT  Bb-     off
+DT       1/8   (BA   44   CR         2)   TR  2   CH  1   NT  C       off
+DT         0   (BA   44   CR         2)   TR  2   CH  1   NT  Bb-     on   von=53
+DT       1/4   (BA   44   CR     2+1/4)   TR  2   CH  1   NT  Bb-     off
+DT       1/3   (BA   44   CR     2+1/3)   TR  1   CH  1   NT  Bb-     on   von=28
+DT         0   (BA   44   CR     2+1/3)   TR  1   CH  1   NT  E       on   von=48
+DT       1/3   (BA   44   CR     2+2/3)   TR  1   CH  1   NT  E       off
+DT         0   (BA   44   CR     2+2/3)   TR  1   CH  1   NT  D       on   von=40
+
+DT       1/3   (BA   45   CR         0)   TR  1   CH  1   NT  D       off
+DT         0   (BA   45   CR         0)   TR  1   CH  1   NT  Bb-     off
+DT       3/4   (BA   45   CR         0)   TR  2   CH  1   NT  A--     on   von=65
+DT      1/96   (BA   45   CR      1/96)   TR  2   CH  1   ST &B0 &40 &00
+DT    89/240   (BA   45   CR    61/160)   TR  2   CH  1   ST &B0 &40 &7F
+DT    99/160   (BA   45   CR         1)   TR  2   CH  1   NT  A--     off
+DT         0   (BA   45   CR         1)   TR  2   CH  1   NT  E-      on   von=63
+DT         2   (BA   45   CR         2)   TR  1   CH  1   NT  E       on   von=51
+DT         0   (BA   45   CR         2)   TR  1   CH  1   NT  C#      on
+DT         1   (BA   45   CR         2)   TR  2   CH  1   NT  E-      off
+DT         0   (BA   45   CR         2)   TR  2   CH  1   NT  A-      on   von=57
+
+DT         1   (BA   46   CR         0)   TR  1   CH  1   NT  C#      off
+DT         0   (BA   46   CR         0)   TR  1   CH  1   NT  E       off
+DT         1   (BA   46   CR         0)   TR  2   CH  1   NT  A-      off
+DT         0   (BA   46   CR         0)   TR  2   CH  1   NT  D-      on   von=47
+DT      1/32   (BA   46   CR      1/32)   TR  2   CH  1   ST &B0 &40 &00
+DT      7/60   (BA   46   CR    71/480)   TR  2   CH  1   ST &B0 &40 &7F
+DT    89/480   (BA   46   CR       1/3)   TR  2   CH  1   NT  D-      off
+DT         0   (BA   46   CR       1/3)   TR  2   CH  1   NT  E-      on   von=49
+DT       1/3   (BA   46   CR       2/3)   TR  2   CH  1   NT  E-      off
+DT         0   (BA   46   CR       2/3)   TR  2   CH  1   NT  F-      on   von=51
+DT         1   (BA   46   CR         1)   TR  1   CH  1   NT  Bb-     on
+DT         0   (BA   46   CR         1)   TR  1   CH  1   NT  E       on
+DT         0   (BA   46   CR         1)   TR  1   CH  1   NT  D       on
+DT       1/3   (BA   46   CR         1)   TR  2   CH  1   NT  F-      off
+DT         0   (BA   46   CR         1)   TR  2   CH  1   NT  G-      on   von=53
+DT    11/480   (BA   46   CR  1+11/480)   TR  2   CH  1   ST &B0 &40 &00
+DT    27/160   (BA   46   CR  1+23/120)   TR  2   CH  1   ST &B0 &40 &7F
+DT    17/120   (BA   46   CR     1+1/3)   TR  2   CH  1   NT  G-      off
+DT         0   (BA   46   CR     1+1/3)   TR  2   CH  1   NT  A-      on   von=55
+DT       1/2   (BA   46   CR     1+1/2)   TR  1   CH  1   NT  D       off
+DT         0   (BA   46   CR     1+1/2)   TR  1   CH  1   NT  E       off
+DT         0   (BA   46   CR     1+1/2)   TR  1   CH  1   NT  Bb-     off
+DT       1/3   (BA   46   CR     1+2/3)   TR  2   CH  1   NT  A-      off
+DT         0   (BA   46   CR     1+2/3)   TR  2   CH  1   NT  Bb-     on   von=58
+DT       1/3   (BA   46   CR         2)   TR  2   CH  1   NT  Bb-     off
+DT         0   (BA   46   CR         2)   TR  2   CH  1   NT  C       on   von=60
+DT      1/32   (BA   46   CR    2+1/32)   TR  2   CH  1   ST &B0 &40 &00
+DT    77/480   (BA   46   CR  2+23/120)   TR  2   CH  1   ST &B0 &40 &7F
+DT    17/120   (BA   46   CR     2+1/3)   TR  2   CH  1   NT  C       off
+DT         0   (BA   46   CR     2+1/3)   TR  2   CH  1   NT  Bb-     on   von=57
+DT       1/3   (BA   46   CR     2+2/3)   TR  2   CH  1   NT  Bb-     off
+DT         0   (BA   46   CR     2+2/3)   TR  2   CH  1   NT  A-      on   von=55
+
+DT       1/3   (BA   47   CR         0)   TR  2   CH  1   NT  A-      off
+DT         0   (BA   47   CR         0)   TR  2   CH  1   NT  A--     on   von=65
+DT     3/160   (BA   47   CR     3/160)   TR  2   CH  1   ST &B0 &40 &00
+DT       3/5   (BA   47   CR    99/160)   TR  2   CH  1   ST &B0 &40 &7F
+DT    61/160   (BA   47   CR         1)   TR  2   CH  1   NT  A--     off
+DT         0   (BA   47   CR         1)   TR  2   CH  1   NT  E-      on   von=63
+DT     3+1/2   (BA   47   CR         2)   TR  1   CH  1   NT  C#      on
+DT         0   (BA   47   CR         2)   TR  1   CH  1   NT  E       on
+DT         1   (BA   47   CR         2)   TR  2   CH  1   NT  E-      off
+DT         0   (BA   47   CR         2)   TR  2   CH  1   NT  A-      on   von=57
+
+DT         1   (BA   48   CR         0)   TR  1   CH  1   NT  E       off
+DT         0   (BA   48   CR         0)   TR  1   CH  1   NT  C#      off
+DT         1   (BA   48   CR         0)   TR  2   CH  1   NT  A-      off
+DT         0   (BA   48   CR         0)   TR  2   CH  1   NT  D-      on   von=42
+DT    13/480   (BA   48   CR    13/480)   TR  2   CH  1   ST &B0 &40 &00
+DT    29/240   (BA   48   CR    71/480)   TR  2   CH  1   ST &B0 &40 &7F
+DT    89/480   (BA   48   CR       1/3)   TR  2   CH  1   NT  D-      off
+DT         0   (BA   48   CR       1/3)   TR  2   CH  1   NT  E-      on   von=44
+DT       1/3   (BA   48   CR       2/3)   TR  2   CH  1   NT  E-      off
+DT         0   (BA   48   CR       2/3)   TR  2   CH  1   NT  F-      on   von=45
+DT         1   (BA   48   CR         1)   TR  1   CH  1   NT  Bb-     on   von=45
+DT         0   (BA   48   CR         1)   TR  1   CH  1   NT  E       on
+DT         0   (BA   48   CR         1)   TR  1   CH  1   NT  D       on
+DT       1/3   (BA   48   CR         1)   TR  2   CH  1   NT  F-      off
+DT         0   (BA   48   CR         1)   TR  2   CH  1   NT  G-      on   von=47
+DT      1/40   (BA   48   CR    1+1/40)   TR  2   CH  1   ST &B0 &40 &00
+DT    73/480   (BA   48   CR   1+17/96)   TR  2   CH  1   ST &B0 &40 &7F
+DT      5/32   (BA   48   CR     1+1/3)   TR  2   CH  1   NT  G-      off
+DT         0   (BA   48   CR     1+1/3)   TR  2   CH  1   NT  A-      on   von=49
+DT       1/2   (BA   48   CR     1+1/2)   TR  1   CH  1   NT  D       off
+DT         0   (BA   48   CR     1+1/2)   TR  1   CH  1   NT  E       off
+DT         0   (BA   48   CR     1+1/2)   TR  1   CH  1   NT  Bb-     off
+DT       1/3   (BA   48   CR     1+2/3)   TR  2   CH  1   NT  A-      off
+DT         0   (BA   48   CR     1+2/3)   TR  2   CH  1   NT  Bb-     on
+DT       1/3   (BA   48   CR         2)   TR  2   CH  1   NT  Bb-     off
+DT         0   (BA   48   CR         2)   TR  2   CH  1   NT  C       on   von=52
+DT    11/480   (BA   48   CR  2+11/480)   TR  2   CH  1   ST &B0 &40 &00
+DT    27/160   (BA   48   CR  2+23/120)   TR  2   CH  1   ST &B0 &40 &7F
+DT    17/120   (BA   48   CR     2+1/3)   TR  2   CH  1   NT  C       off
+DT         0   (BA   48   CR     2+1/3)   TR  2   CH  1   NT  Bb-     on   von=49
+DT       1/3   (BA   48   CR     2+2/3)   TR  2   CH  1   NT  Bb-     off
+DT         0   (BA   48   CR     2+2/3)   TR  2   CH  1   NT  A-      on   von=44
+
+DT     1+1/2   (BA   49   CR         0)   TR  1   CH  1   NT  Bb      on   von=49
+DT         0   (BA   49   CR         0)   TR  1   CH  1   NT  E'      on
+DT       1/3   (BA   49   CR         0)   TR  2   CH  1   NT  A-      off
+DT         0   (BA   49   CR         0)   TR  2   CH  1   NT  Ab-     on   von=41
+DT         0   (BA   49   CR         0)   TR  2   CH  1   NT  D       on
+DT      1/40   (BA   49   CR      1/40)   TR  2   CH  1   ST &B0 &40 &00
+DT     83/96   (BA   49   CR   427/480)   TR  2   CH  1   ST &B0 &40 &7F
+
+DT         3   (BA   50   CR         0)   TR  1   CH  1   NT  E'      off
+DT         0   (BA   50   CR         0)   TR  1   CH  1   NT  Bb      off
+DT         0   (BA   50   CR         0)   TR  1   CH  1   NT  Bb'     on   von=55
+DT  2+53/480   (BA   50   CR         0)   TR  2   CH  1   NT  D       off
+DT         0   (BA   50   CR         0)   TR  2   CH  1   NT  Ab-     off
+DT         0   (BA   50   CR         0)   TR  2   CH  1   NT  Bb-     on   von=46
+DT      1/40   (BA   50   CR      1/40)   TR  2   CH  1   ST &B0 &40 &00
+DT   1+17/32   (BA   50   CR  1+89/160)   TR  2   CH  1   ST &B0 &40 &7F
+
+DT     3+1/2   (BA   51   CR       1/2)   TR  1   CH  1   NT  Bb'     off
+DT         0   (BA   51   CR       1/2)   TR  1   CH  1   NT  C''     on   von=51
+DT 1+151/160   (BA   51   CR       1/2)   TR  2   CH  1   NT  Bb-     off
+DT         0   (BA   51   CR       1/2)   TR  2   CH  1   NT  C       on   von=43
+DT       1/2   (BA   51   CR         1)   TR  1   CH  1   NT  C''     off
+DT         0   (BA   51   CR         1)   TR  1   CH  1   NT  D''     on   von=55
+DT       1/2   (BA   51   CR         1)   TR  2   CH  1   NT  C       off
+DT         0   (BA   51   CR         1)   TR  2   CH  1   NT  D       on   von=46
+DT       1/2   (BA   51   CR     1+1/2)   TR  1   CH  1   NT  D''     off
+DT         0   (BA   51   CR     1+1/2)   TR  1   CH  1   NT  F''     on   von=47
+DT       1/2   (BA   51   CR     1+1/2)   TR  2   CH  1   NT  D       off
+DT         0   (BA   51   CR     1+1/2)   TR  2   CH  1   NT  F       on   von=39
+DT       1/2   (BA   51   CR         2)   TR  1   CH  1   NT  F''     off
+DT         0   (BA   51   CR         2)   TR  1   CH  1   NT  D''     on   von=56
+DT       1/2   (BA   51   CR         2)   TR  2   CH  1   NT  F       off
+DT         0   (BA   51   CR         2)   TR  2   CH  1   NT  D       on   von=47
+DT       1/2   (BA   51   CR     2+1/2)   TR  1   CH  1   NT  D''     off
+DT         0   (BA   51   CR     2+1/2)   TR  1   CH  1   NT  C''     on   von=53
+DT       1/2   (BA   51   CR     2+1/2)   TR  2   CH  1   NT  D       off
+DT         0   (BA   51   CR     2+1/2)   TR  2   CH  1   NT  C       on   von=45
+DT      1/48   (BA   51   CR   2+25/48)   TR  2   CH  1   ST &B0 &40 &00
+DT       1/4   (BA   51   CR     2+3/4)   TR  1   CH  1   NT  C''     off
+DT         0   (BA   51   CR     2+3/4)   TR  1   CH  1   NT  C''     on   von=41
+DT     11/48   (BA   51   CR     2+3/4)   TR  2   CH  1   NT  C       off
+DT         0   (BA   51   CR     2+3/4)   TR  2   CH  1   NT  C       on   von=40
+DT       1/8   (BA   51   CR     2+7/8)   TR  1   CH  1   NT  C''     off
+DT         0   (BA   51   CR     2+7/8)   TR  1   CH  1   NT  D''     on   von=42
+DT       1/8   (BA   51   CR     2+7/8)   TR  2   CH  1   NT  C       off
+DT         0   (BA   51   CR     2+7/8)   TR  2   CH  1   NT  D       on   von=39
+
+DT       1/8   (BA   52   CR         0)   TR  1   CH  1   NT  D''     off
+DT         0   (BA   52   CR         0)   TR  1   CH  1   NT  C''     on   von=45
+DT       1/8   (BA   52   CR         0)   TR  2   CH  1   NT  D       off
+DT         0   (BA   52   CR         0)   TR  2   CH  1   NT  C       on   von=40
+DT       1/2   (BA   52   CR       1/2)   TR  1   CH  1   NT  C''     off
+DT         0   (BA   52   CR       1/2)   TR  1   CH  1   NT  Bb'     on   von=48
+DT       1/2   (BA   52   CR       1/2)   TR  2   CH  1   NT  C       off
+DT         0   (BA   52   CR       1/2)   TR  2   CH  1   NT  Bb-     on   von=39
+DT      7/80   (BA   52   CR     47/80)   TR  2   CH  1   ST &B0 &40 &7F
+DT       1/2   (BA   52   CR         1)   TR  1   CH  1   NT  Bb'     off
+DT         0   (BA   52   CR         1)   TR  1   CH  1   NT  F'      on
+DT     33/80   (BA   52   CR         1)   TR  2   CH  1   NT  Bb-     off
+DT         0   (BA   52   CR         1)   TR  2   CH  1   NT  F-      on   von=40
+DT       1/2   (BA   52   CR     1+1/2)   TR  1   CH  1   NT  F'      off
+DT         0   (BA   52   CR     1+1/2)   TR  1   CH  1   NT  Bb'     on   von=43
+DT       1/2   (BA   52   CR     1+1/2)   TR  2   CH  1   NT  F-      off
+DT         0   (BA   52   CR     1+1/2)   TR  2   CH  1   NT  Bb-     on   von=36
+DT       1/2   (BA   52   CR         2)   TR  1   CH  1   NT  Bb'     off
+DT         0   (BA   52   CR         2)   TR  1   CH  1   NT  A'      on   von=47
+DT       1/2   (BA   52   CR         2)   TR  2   CH  1   NT  Bb-     off
+DT         0   (BA   52   CR         2)   TR  2   CH  1   NT  A-      on   von=39
+DT      1/30   (BA   52   CR    2+1/30)   TR  2   CH  1   ST &B0 &40 &00
+DT   119/240   (BA   52   CR 2+127/240)   TR  2   CH  1   ST &B0 &40 &7F
+
+DT         2   (BA   53   CR         1)   TR  1   CH  1   NT  A'      off
+DT         0   (BA   53   CR         1)   TR  1   CH  1   NT  Ab'     on
+DT 1+113/240   (BA   53   CR         1)   TR  2   CH  1   NT  A-      off
+DT         0   (BA   53   CR         1)   TR  2   CH  1   NT  Ab-     on
+DT      1/30   (BA   53   CR    1+1/30)   TR  2   CH  1   ST &B0 &40 &00
+DT     11/48   (BA   53   CR   1+21/80)   TR  2   CH  1   ST &B0 &40 &7F
+DT       1/2   (BA   53   CR     1+1/2)   TR  1   CH  1   NT  Ab'     off
+DT         0   (BA   53   CR     1+1/2)   TR  1   CH  1   NT  F'      on   von=43
+DT     19/80   (BA   53   CR     1+1/2)   TR  2   CH  1   NT  Ab-     off
+DT         0   (BA   53   CR     1+1/2)   TR  2   CH  1   NT  F-      on   von=36
+DT       1/2   (BA   53   CR         2)   TR  1   CH  1   NT  F'      off
+DT         0   (BA   53   CR         2)   TR  1   CH  1   NT  E'      on   von=45
+DT       1/2   (BA   53   CR         2)   TR  2   CH  1   NT  F-      off
+DT         0   (BA   53   CR         2)   TR  2   CH  1   NT  E-      on   von=38
+DT       1/2   (BA   53   CR     2+1/2)   TR  1   CH  1   NT  E'      off
+DT         0   (BA   53   CR     2+1/2)   TR  1   CH  1   NT  D'      on   von=42
+DT       1/2   (BA   53   CR     2+1/2)   TR  2   CH  1   NT  E-      off
+DT         0   (BA   53   CR     2+1/2)   TR  2   CH  1   NT  D-      on   von=35
+
+DT       1/2   (BA   54   CR         0)   TR  1   CH  1   NT  D'      off
+DT       1/2   (BA   54   CR         0)   TR  2   CH  1   NT  D-      off
+DT         0   (BA   54   CR         0)   TR  2   CH  1   NT  A--     on   von=34
+DT     3/160   (BA   54   CR     3/160)   TR  2   CH  1   ST &B0 &40 &00
+DT     13/30   (BA   54   CR   217/480)   TR  2   CH  1   ST &B0 &40 &7F
+DT       1/2   (BA   54   CR       1/2)   TR  1   CH  1   NT  A-      on   von=40
+DT    23/480   (BA   54   CR       1/2)   TR  2   CH  1   NT  A--     off
+DT         0   (BA   54   CR       1/2)   TR  2   CH  1   NT  E-      on   von=32
+DT   119/240   (BA   54   CR   239/240)   TR  1   CH  1   NT  A-      off
+DT     1/240   (BA   54   CR         1)   TR  1   CH  1   NT  C#      on   von=41
+DT       1/2   (BA   54   CR         1)   TR  2   CH  1   NT  E-      off
+DT         0   (BA   54   CR         1)   TR  2   CH  1   NT  A-      on
+DT       1/2   (BA   54   CR     1+1/2)   TR  1   CH  1   NT  C#      off
+DT         0   (BA   54   CR     1+1/2)   TR  1   CH  1   NT  E       on   von=44
+DT       1/2   (BA   54   CR     1+1/2)   TR  2   CH  1   NT  A-      off
+DT         0   (BA   54   CR     1+1/2)   TR  2   CH  1   NT  C#      on   von=33
+DT       1/2   (BA   54   CR         2)   TR  1   CH  1   NT  E       off
+DT         0   (BA   54   CR         2)   TR  1   CH  1   NT  A       on   von=46
+DT       1/2   (BA   54   CR         2)   TR  2   CH  1   NT  C#      off
+DT         0   (BA   54   CR         2)   TR  2   CH  1   NT  E       on   von=34
+DT       1/2   (BA   54   CR     2+1/2)   TR  1   CH  1   NT  A       off
+DT         0   (BA   54   CR     2+1/2)   TR  1   CH  1   NT  C#'     on   von=47
+DT       1/2   (BA   54   CR     2+1/2)   TR  2   CH  1   NT  E       off
+DT         0   (BA   54   CR     2+1/2)   TR  2   CH  1   NT  A       on   von=35
+
+DT       1/2   (BA   55   CR         0)   TR  1   CH  1   NT  C#'     off
+DT         0   (BA   55   CR         0)   TR  1   CH  1   NT  E'      on   von=50
+DT       1/2   (BA   55   CR         0)   TR  2   CH  1   NT  A       off
+DT         0   (BA   55   CR         0)   TR  2   CH  1   NT  C#'     on   von=39
+DT       1/2   (BA   55   CR       1/2)   TR  1   CH  1   NT  E'      off
+DT         0   (BA   55   CR       1/2)   TR  1   CH  1   NT  A       on   von=40
+DT       1/2   (BA   55   CR       1/2)   TR  2   CH  1   NT  C#'     off
+DT         0   (BA   55   CR       1/2)   TR  2   CH  1   NT  C#      on   von=32
+DT       1/2   (BA   55   CR         1)   TR  1   CH  1   NT  A       off
+DT         0   (BA   55   CR         1)   TR  1   CH  1   NT  C#'     on   von=41
+DT       1/2   (BA   55   CR         1)   TR  2   CH  1   NT  C#      off
+DT         0   (BA   55   CR         1)   TR  2   CH  1   NT  E       on
+DT       1/2   (BA   55   CR     1+1/2)   TR  1   CH  1   NT  C#'     off
+DT         0   (BA   55   CR     1+1/2)   TR  1   CH  1   NT  E'      on   von=44
+DT       1/2   (BA   55   CR     1+1/2)   TR  2   CH  1   NT  E       off
+DT         0   (BA   55   CR     1+1/2)   TR  2   CH  1   NT  A       on   von=33
+DT       1/2   (BA   55   CR         2)   TR  1   CH  1   NT  E'      off
+DT         0   (BA   55   CR         2)   TR  1   CH  1   NT  A'      on   von=46
+DT       1/2   (BA   55   CR         2)   TR  2   CH  1   NT  A       off
+DT         0   (BA   55   CR         2)   TR  2   CH  1   NT  C#'     on   von=34
+DT       1/2   (BA   55   CR     2+1/2)   TR  1   CH  1   NT  A'      off
+DT         0   (BA   55   CR     2+1/2)   TR  1   CH  1   NT  C#''    on   von=47
+DT       1/2   (BA   55   CR     2+1/2)   TR  2   CH  1   NT  C#'     off
+DT         0   (BA   55   CR     2+1/2)   TR  2   CH  1   NT  E'      on   von=35
+
+DT       1/2   (BA   56   CR         0)   TR  1   CH  1   NT  C#''    off
+DT         0   (BA   56   CR         0)   TR  1   CH  1   NT  E''     on   von=51
+DT       1/2   (BA   56   CR         0)   TR  2   CH  1   NT  E'      off
+DT         0   (BA   56   CR         0)   TR  2   CH  1   NT  A'      on   von=39
+DT       1/2   (BA   56   CR       1/2)   TR  1   CH  1   NT  E''     off
+DT         0   (BA   56   CR       1/2)   TR  1   CH  1   NT  A       on   von=40
+DT       1/2   (BA   56   CR       1/2)   TR  2   CH  1   NT  A'      off
+DT         0   (BA   56   CR       1/2)   TR  2   CH  1   NT  C#      on   von=32
+DT       1/2   (BA   56   CR         1)   TR  1   CH  1   NT  A       off
+DT         0   (BA   56   CR         1)   TR  1   CH  1   NT  C#'     on   von=41
+DT       1/2   (BA   56   CR         1)   TR  2   CH  1   NT  C#      off
+DT         0   (BA   56   CR         1)   TR  2   CH  1   NT  E       on
+DT       1/2   (BA   56   CR     1+1/2)   TR  1   CH  1   NT  C#'     off
+DT         0   (BA   56   CR     1+1/2)   TR  1   CH  1   NT  E'      on   von=44
+DT       1/2   (BA   56   CR     1+1/2)   TR  2   CH  1   NT  E       off
+DT         0   (BA   56   CR     1+1/2)   TR  2   CH  1   NT  A       on   von=33
+DT       1/2   (BA   56   CR         2)   TR  1   CH  1   NT  E'      off
+DT         0   (BA   56   CR         2)   TR  1   CH  1   NT  A'      on   von=46
+DT       1/2   (BA   56   CR         2)   TR  2   CH  1   NT  A       off
+DT         0   (BA   56   CR         2)   TR  2   CH  1   NT  C#'     on   von=34
+DT       1/2   (BA   56   CR     2+1/2)   TR  1   CH  1   NT  A'      off
+DT         0   (BA   56   CR     2+1/2)   TR  1   CH  1   NT  C#''    on   von=47
+DT       1/2   (BA   56   CR     2+1/2)   TR  2   CH  1   NT  C#'     off
+DT         0   (BA   56   CR     2+1/2)   TR  2   CH  1   NT  E'      on   von=35
+
+DT       1/2   (BA   57   CR         0)   TR  1   CH  1   NT  C#''    off
+DT         0   (BA   57   CR         0)   TR  1   CH  1   NT  E''     on   von=49
+DT       1/2   (BA   57   CR         0)   TR  2   CH  1   NT  E'      off
+DT         0   (BA   57   CR         0)   TR  2   CH  1   NT  A'      on   von=39
+DT       1/2   (BA   57   CR       1/2)   TR  1   CH  1   NT  E''     off
+DT         0   (BA   57   CR       1/2)   TR  1   CH  1   NT  A'      on   von=46
+DT       1/2   (BA   57   CR       1/2)   TR  2   CH  1   NT  A'      off
+DT         0   (BA   57   CR       1/2)   TR  2   CH  1   NT  C#'     on   von=34
+DT       1/2   (BA   57   CR         1)   TR  1   CH  1   NT  A'      off
+DT         0   (BA   57   CR         1)   TR  1   CH  1   NT  C#''    on   von=44
+DT       1/2   (BA   57   CR         1)   TR  2   CH  1   NT  C#'     off
+DT         0   (BA   57   CR         1)   TR  2   CH  1   NT  E'      on
+DT       1/2   (BA   57   CR     1+1/2)   TR  1   CH  1   NT  C#''    off
+DT         0   (BA   57   CR     1+1/2)   TR  1   CH  1   NT  E''     on   von=42
+DT       1/2   (BA   57   CR     1+1/2)   TR  2   CH  1   NT  E'      off
+DT         0   (BA   57   CR     1+1/2)   TR  2   CH  1   NT  A'      on   von=33
+DT       1/2   (BA   57   CR         2)   TR  1   CH  1   NT  E''     off
+DT         0   (BA   57   CR         2)   TR  1   CH  1   NT  A''     on   von=40
+DT       1/2   (BA   57   CR         2)   TR  2   CH  1   NT  A'      off
+DT         0   (BA   57   CR         2)   TR  2   CH  1   NT  C#''    on   von=32
+DT       1/2   (BA   57   CR     2+1/2)   TR  1   CH  1   NT  A''     off
+DT         0   (BA   57   CR     2+1/2)   TR  1   CH  1   NT  C#'''   on   von=38
+DT       1/2   (BA   57   CR     2+1/2)   TR  2   CH  1   NT  C#''    off
+DT         0   (BA   57   CR     2+1/2)   TR  2   CH  1   NT  E''     on
+
+DT       1/2   (BA   58   CR         0)   TR  1   CH  1   NT  C#'''   off
+DT         0   (BA   58   CR         0)   TR  1   CH  1   NT  E'''    on   von=36
+DT         0   (BA   58   CR         0)   TR  1   CH  1   NT  A''     on
+DT         0   (BA   58   CR         0)   TR  1   CH  1   NT  A'''    on
+DT       1/2   (BA   58   CR         0)   TR  2   CH  1   NT  E''     off
+DT         0   (BA   58   CR         0)   TR  2   CH  1   NT  C#''    on   von=23
+DT         0   (BA   58   CR         0)   TR  2   CH  1   NT  A       on
+DT         0   (BA   58   CR         0)   TR  2   CH  1   NT  E'      on
+
+DT         3   (BA   59   CR         0)   TR  1   CH  1   NT  A'''    off
+DT         0   (BA   59   CR         0)   TR  1   CH  1   NT  A''     off
+DT         0   (BA   59   CR         0)   TR  1   CH  1   NT  E'''    off
+DT         0   (BA   59   CR         0)   TR  1   CH 16   End of track
+DT         3   (BA   59   CR         0)   TR  2   CH  1   NT  E'      off
+DT         0   (BA   59   CR         0)   TR  2   CH  1   NT  A       off
+DT         0   (BA   59   CR         0)   TR  2   CH  1   NT  C#''    off
+DT     2+1/6   (BA   59   CR     2+1/6)   TR  2   CH  1   ST &B0 &40 &00
+DT         0   (BA   59   CR     2+1/6)   TR  2   CH 16   End of track
+
+DT         0   (BA   60   CR         0)   TR  0   CH 16   End of track
+# Successfully parsed
+# Duration = 95.1924 seconds
