@@ -2,6 +2,7 @@ import re
 import csv
 import operator
 from pathlib import Path
+import numpy as np
 
 # string = "1, 0, Time_signature, 3, 2, 24, 8\n\
 # 1, 0, Key_signature, -1, \"major\"\n\
@@ -28,24 +29,31 @@ smol = re.sub('\n\d', '\n1', smol)
 # Remove header
 smol = re.sub('.*(Header).*\n', '', smol)
 
-big_csv = csv.reader(open('alb.csv',encoding='cp1252'),delimiter=',')
+# Convert to an array values from the CSV
+data = []
 
-# TODO: Make it sort by number value instead of string
+for line in smol.splitlines():
+    line = [v.strip() for v in line.split(',')]
+    data.append(line)
 
-sortedlist = sorted(big_csv, key=operator.itemgetter(1))
-print(sortedlist)
-# now write the sorte result into new CSV file
-# with open("NewFile.csv", "wb") as f:
-#     fileWriter = csv.writer(f, delimiter=',')
-#     for row in sortedlist:
-#         fileWriter.writerow(row)
-list = ""
-for item in sortedlist:
-    line = ""
-    for c in item:
-        line += c
-        line += ","
-    list += line
-    list += "\n"
+# big_csv = csv.reader(open('alb.csv',encoding='cp1252'),delimiter=',')
 
-print(list)
+# # TODO: Make it sort by number value instead of string
+
+# sortedlist = sorted(big_csv, key=operator.itemgetter(1))
+# print(sortedlist)
+# # now write the sorte result into new CSV file
+# # with open("NewFile.csv", "wb") as f:
+# #     fileWriter = csv.writer(f, delimiter=',')
+# #     for row in sortedlist:
+# #         fileWriter.writerow(row)
+# list = ""
+# for item in sortedlist:
+#     line = ""
+#     for c in item:
+#         line += c
+#         line += ","
+#     list += line
+#     list += "\n"
+
+print(data)
