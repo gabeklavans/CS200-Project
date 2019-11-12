@@ -23,7 +23,7 @@ smol = re.sub('.*(_t|SMPTE|Time|Key).*\n', '', smol)
 # Remove tempo markings
 smol = re.sub('.*(Tempo).*\n', '', smol)
 # Don't know what this does but we don't need it soooo
-smol = re.sub('.*(Program).*\n', '', smol)
+smol = re.sub('.*(Program|Control).*\n', '', smol)
 # Normalize to one track
 smol = re.sub('\n\d', '\n1', smol)
 # Remove header
@@ -36,24 +36,12 @@ for line in smol.splitlines():
     line = [v.strip() for v in line.split(',')]
     data.append(line)
 
-# big_csv = csv.reader(open('alb.csv',encoding='cp1252'),delimiter=',')
+# put the timings in a data stucture in the form [time, note, velocity]
+# velocities are used for either on or off cuz we want those spicy note lengths
+timings = [[int(row[1]),int(row[4]),int(row[5])] for row in data]
+# timings = timings.sort()
 
-# # TODO: Make it sort by number value instead of string
+timings = np.array(timings)
+timings = np.sort(timings.view('i8,i8,i8'), order=['f0'], axis=0).view(np.int)
 
-# sortedlist = sorted(big_csv, key=operator.itemgetter(1))
-# print(sortedlist)
-# # now write the sorte result into new CSV file
-# # with open("NewFile.csv", "wb") as f:
-# #     fileWriter = csv.writer(f, delimiter=',')
-# #     for row in sortedlist:
-# #         fileWriter.writerow(row)
-# list = ""
-# for item in sortedlist:
-#     line = ""
-#     for c in item:
-#         line += c
-#         line += ","
-#     list += line
-#     list += "\n"
-
-print(data)
+print(timings)
