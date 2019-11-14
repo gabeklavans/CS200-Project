@@ -3,6 +3,7 @@ import csv
 import operator
 from pathlib import Path
 import numpy as np
+import sys
 
 # string = "1, 0, Time_signature, 3, 2, 24, 8\n\
 # 1, 0, Key_signature, -1, \"major\"\n\
@@ -39,9 +40,32 @@ for line in smol.splitlines():
 # put the timings in a data stucture in the form [time, note, velocity]
 # velocities are used for either on or off cuz we want those spicy note lengths
 timings = [[int(row[1]),int(row[4]),int(row[5])] for row in data]
-# timings = timings.sort()
 
+# sort the timings by time, so all chords are fully kept together
 timings = np.array(timings)
 timings = np.sort(timings.view('i8,i8,i8'), order=['f0'], axis=0).view(np.int)
 
-print(timings)
+# the final output string
+output = ""
+
+# initialize last time to the first event time
+last_time = timings[0][0]
+
+for line in timings:
+    time = line[0]
+    note = line[1]
+    velocity = line[2]
+
+    if (time - last_time) > 0:
+        diff = time - last_time
+        output += f' {diff} '
+    # TODO: Map the MIDI input number to the ASCII character i want
+    # getMap(note)
+    output += "A"
+    if velocity == 0:
+        output += "."
+    last_time = time
+    
+
+np.set_printoptions(threshold=sys.maxsize)
+print(output)
