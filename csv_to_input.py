@@ -76,9 +76,9 @@ for line in timings:
         output += f' {diff} '
     # TODO: Map the MIDI input number to the ASCII character i want
     # getMap(note)
-    output += midi_to_char(note_num)
     if velocity == 0:
         output += "."
+    output += midi_to_char(note_num)
     last_time = time
 
 
