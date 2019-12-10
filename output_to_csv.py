@@ -1,4 +1,5 @@
 from pathlib import Path
+import sys
 
 def is_number(s: str) -> bool:
     try:
@@ -7,11 +8,12 @@ def is_number(s: str) -> bool:
     except ValueError:
         return False
 
+
 def char_to_midi(char: str) -> int:
     char_val = ord(char)
 
     if char_val < 33:
-        #print(chr(char_val))
+        # print(chr(char_val))
         return -1
     elif char_val <= 47:
         return (char_val - 9)
@@ -20,10 +22,7 @@ def char_to_midi(char: str) -> int:
     else:
         return -2
 
-input_txt = Path(
-    '/Users/cassandra/GitHub/CS200-Project/output.txt').read_text()#encoding='cp1252')
-
-#print(input_txt)
+input_txt = Path(sys.argv[1]).read_text()  # encoding='cp1252')
 
 # split up string into space-separated values
 data = input_txt.split(' ')
@@ -40,12 +39,14 @@ for value in data:
         while i < len(value):
             # remove this statement for debugging
             if char_to_midi(value[i]) < 0:
-                i += 1 # skip it
+                i += 1  # skip it
             elif value[i] == '.':
-                timings.append(['1', str(current_time), 'Note_on_c', '0', str(char_to_midi(value[i+1])), '0'])
+                timings.append(['1', str(current_time), 'Note_on_c',
+                                '0', str(char_to_midi(value[i+1])), '0'])
                 i += 2
             else:
-                timings.append(['1', str(current_time), 'Note_on_c', '0', str(char_to_midi(value[i])), '100'])
+                timings.append(['1', str(current_time), 'Note_on_c',
+                                '0', str(char_to_midi(value[i])), '100'])
                 i += 1
 
 timings.append(['1', str(current_time), 'End_track'])
